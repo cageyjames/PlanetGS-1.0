@@ -103,6 +103,8 @@
           <p>jfee@weogeo.com -- Any geospatial related blogs are welcome.</p>
           <h2>Feeds</h2>
           <p><a href="atom.xml">Atom</a> | <a href="rss20.xml">RSS</a> | <a href="http://eepurl.com/ALxp">Email</a> | <a href="mobile.html">Mobile</a></p>
+          <h2>Code</h2>
+          <p><a href="https://github.com/cageyjames/PlanetGS">Fork me on GitHub</a></p>i
           <h2>Subscriptions</h2>
           <ul>
             <xsl:for-each select="planet:source">
