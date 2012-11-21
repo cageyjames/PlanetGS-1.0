@@ -1,0 +1,1219 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+	<title>Planet Geospatial</title>
+	<link>http://www.planetgs.com/</link>
+	<language>en</language>
+	<description>Planet Geospatial - http://www.planetgs.com/</description>
+	<atom:link rel="self" href="http://www.planetgs.com/rss20.xml" type="application/rss+xml"/>
+
+<item>
+	<title>Bill Thorp: Mapserver 6.2 is out</title>
+	<guid isPermaLink="false">http://billthorp.wordpress.com/?p=400</guid>
+	<link>http://billthorp.wordpress.com/2012/11/21/mapserver-6-2-is-out/</link>
+	<description>&lt;p&gt;I may be a week late on the news, but &lt;a href=&quot;http://mapserver.org/download.html#download&quot;&gt;MapServer 6.2 is out&lt;/a&gt;.  &lt;a href=&quot;http://mapserver.org/development/announce/6-2.html#announce-6-2&quot;&gt;New features&lt;/a&gt; include clipping raster maps to an AOI and support for named group layers in a WMS.  &lt;/p&gt;
+&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/billthorp.wordpress.com/400/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/billthorp.wordpress.com/400/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://stats.wordpress.com/b.gif?host=billthorp.wordpress.com&amp;amp;blog=920496&amp;amp;post=400&amp;amp;subd=billthorp&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Wed, 21 Nov 2012 15:20:24 +0000</pubDate>
+</item>
+<item>
+	<title>AnyGeo: Holiday Wishes and Geeky Thanksgiving Tips</title>
+	<guid isPermaLink="false">http://blog.gisuser.com/?p=12082</guid>
+	<link>http://blog.gisuser.com/2012/11/21/holiday-wishes-and-geeky-thanksgiving-tips/</link>
+	<description>Since turkey is on the mind of many I’ll share a couple of fun, Thanksgiving related tips that you may find handy and fun! Ever wanted to know how to set your table to really impress? Here’s a cool visualization … &lt;a href=&quot;http://blog.gisuser.com/2012/11/21/holiday-wishes-and-geeky-thanksgiving-tips/&quot;&gt;Continue reading &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;</description>
+	<pubDate>Wed, 21 Nov 2012 14:11:07 +0000</pubDate>
+</item>
+<item>
+	<title>All Points Blog: FCC Requests Comments on LightSquared Weather Balloon Proposal</title>
+	<guid isPermaLink="true">http://apb.directionsmag.com/entry/fcc-requests-comments-on-lightsquared-weather-balloon-proposal/292592</guid>
+	<link>http://apb.directionsmag.com/entry/fcc-requests-comments-on-lightsquared-weather-balloon-proposal/292592</link>
+	<description>The FCC is seeking comment on LightSquared's proposal to share spectrum for weather balloons and permanently relinquish its 10 MHz of spectrum that is directly adjacent to the frequencies used by GPS receivers.
+
+	Petitions to deny LightSquared's proposal are due Dec. 17, oppositions are... &lt;a href=&quot;http://apb.directionsmag.com/entry/fcc-requests-comments-on-lightsquared-weather-balloon-proposal/292592&quot;&gt;Continue reading&lt;/a&gt;</description>
+	<pubDate>Wed, 21 Nov 2012 12:44:08 +0000</pubDate>
+</item>
+<item>
+	<title>All Points Blog: RoundUp of Nokia HERE Maps App Reviews</title>
+	<guid isPermaLink="true">http://apb.directionsmag.com/entry/roundup-of-nokia-here-maps-app-reviews/292588</guid>
+	<link>http://apb.directionsmag.com/entry/roundup-of-nokia-here-maps-app-reviews/292588</link>
+	<description>On Monday Nokia released its Here Maps app for the iOS. While there's some confusion on what to call it (Nokia Maps? HERE? Here Maps?) The overall response is akin to that of Apple's own Maps app. But, Nokia is called out because of its time with mapping tech (having acquired Gate5 and... &lt;a href=&quot;http://apb.directionsmag.com/entry/roundup-of-nokia-here-maps-app-reviews/292588&quot;&gt;Continue reading&lt;/a&gt;</description>
+	<pubDate>Wed, 21 Nov 2012 12:23:42 +0000</pubDate>
+</item>
+<item>
+	<title>Sean Gillies Blog: TopoJSON with Python</title>
+	<guid isPermaLink="false">tag:sgillies.net,2012-11-21:/blog/1159/topojson-with-python</guid>
+	<link>http://sgillies.net/blog/1159/topojson-with-python/</link>
+	<description>&lt;p&gt;Intrigued by Mike Bostock's &lt;a class=&quot;reference&quot; href=&quot;https://github.com/mbostock/topojson&quot;&gt;TopoJSON&lt;/a&gt;
+project, I've written a module of functions that convert TopoJSON objects to plain
+old GeoJSON objects: &lt;a class=&quot;reference&quot; href=&quot;https://github.com/sgillies/topojson/blob/master/topojson.py&quot;&gt;https://github.com/sgillies/topojson/blob/master/topojson.py&lt;/a&gt;.
+I learned a couple of new things about slicing along the way: &lt;tt class=&quot;docutils literal&quot;&gt;&lt;span class=&quot;pre&quot;&gt;None&lt;/span&gt;&lt;/tt&gt; is the
+same as nothing in slicing syntax,&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;span class=&quot;gp&quot;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)[&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)[:]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;go&quot;&gt;True&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;and expressions in slice indices are powerful things. I'm using them to truncate or
+reverse lists of coordinates depending on their index in another list.&lt;/p&gt;
+&lt;p&gt;The program below was made for an IPython Notebook with pylab inline. A lot
+of the code has appeared in my recent posts. Ultimately, there's a function to
+project shapes (the &quot;geoms&quot;) and a rendering function that's used to fold them
+into a map image.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;descartes&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PolygonPatch&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;functools&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;partial&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;reduce&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;json&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;logging&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pyproj&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Proj&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;urllib&lt;/span&gt;
+
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;topojson&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;geometry&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;# Fetch some US states TopoJSON.&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;urllib&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;urlopen&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&quot;https://raw.github.com/mbostock/topojson/master/examples/topo/us-states.json&quot;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;topology&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;loads&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;scale&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;topology&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'transform'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'scale'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;translate&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;topology&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'transform'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'translate'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;arcs&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;topology&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'arcs'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;# The following functions support LLC projection of shapes.&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;transform_coords&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;c&quot;&gt;# Transform record geometry coordinates using the provided function.&lt;/span&gt;
+    &lt;span class=&quot;c&quot;&gt;# Returns a record or None.&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'type'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Polygon&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;new_coords&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;zip&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;zip&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ring&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+                &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ring&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'coordinates'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;elif&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'type'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;MultiPolygon&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;new_coords&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;part&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'coordinates'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]:&lt;/span&gt;
+                &lt;span class=&quot;n&quot;&gt;new_part_coords&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;zip&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;zip&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ring&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+                    &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ring&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;part&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+                &lt;span class=&quot;n&quot;&gt;new_coords&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;append&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;new_part_coords&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'type'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'type'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'coordinates'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;new_coords&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;ne&quot;&gt;Exception&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;c&quot;&gt;# Writing untransformed features to a different shapefile&lt;/span&gt;
+        &lt;span class=&quot;c&quot;&gt;# is another option.&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;logging&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;exception&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+            &lt;span class=&quot;s&quot;&gt;&quot;Error transforming record &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;:&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;epsg4326&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Proj&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;init&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;epsg:4326&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;no_defs&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;lcc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Proj&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;proj&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;lcc&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;lon_0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=-&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;96.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;lat_0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;23.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;lat_1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;23.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;lat_2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;60.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;ellps&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;WGS84&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;datum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;WGS84&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;units&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;m&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;no_defs&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;transform_lcc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;partial&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;epsg4326&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lcc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;lambert&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;partial&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;transform_coords&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;transform_lcc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;# The rendering of a single shape is done by the following.&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;BLUE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;#6699cc&quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;RED&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;#cc6666&quot;&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;add_record&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;axes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;fc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BLUE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ec&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BLUE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alpha&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;1.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;sd&quot;&gt;&quot;&quot;&quot;Makes a patch of the record's geometry and adds it to the axes.&quot;&quot;&quot;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'type'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Polygon&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;axes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;add_patch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;PolygonPatch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;fc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ec&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alpha&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;alpha&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;elif&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'type'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;MultiPolygon&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;part&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'coordinates'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]:&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;axes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;add_patch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+                &lt;span class=&quot;n&quot;&gt;PolygonPatch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+                    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'type'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Polygon&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'coordinates'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;part&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+                    &lt;span class=&quot;n&quot;&gt;rec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;fc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ec&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alpha&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;alpha&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;axes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;autoscale&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tight&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;axes&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;add_feature_alpha&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;partial&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;add_record&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alpha&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;# Transform the relative coordinates of geometries to absolute coordinates.&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;geoms&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;geometry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;obj&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;arcs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;scale&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;translate&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;obj&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;topology&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'objects'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'geometries'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;# Fold all the geoms up into a nice projected map image.&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;figsize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;12&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;12&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;gca&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set_aspect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'equal'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;reduce&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;add_feature_alpha&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lambert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;geoms&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gca&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;The result:&lt;/p&gt;
+&lt;img alt=&quot;http://farm9.staticflickr.com/8346/8205362930_e26a1e62b5_b_d.jpg&quot; src=&quot;http://farm9.staticflickr.com/8346/8205362930_e26a1e62b5_b_d.jpg&quot; style=&quot;width: 730px; height: 499px;&quot; /&gt;
+&lt;p&gt;Alaska is a little strange. I'll look into it.&lt;/p&gt;</description>
+	<pubDate>Wed, 21 Nov 2012 06:19:54 +0000</pubDate>
+	<author>sgillies@frii.com (Sean Gillies)</author>
+</item>
+<item>
+	<title>Between the Poles: Canadian cities ask for long term infrastructure plan from the federal government</title>
+	<guid isPermaLink="false">tag:typepad.com,2003:post-6a00d83476d35153ef017ee57240ce970d</guid>
+	<link>http://feedproxy.google.com/~r/typepad/zeissg/geospatial/~3/72u75HIZBb8/canadian-cities-ask-for-20-year-infrastructure-funding-plan-from-the-federal-government.html</link>
+	<description>In 2007 the Federation of Canadian Municipalities (FCM) commissioned McGill University to &lt;a href=&quot;http://www.fcm.ca/CMFiles/mdeficit1opt-792008-3425.pdf&quot; target=&quot;_self&quot;&gt;survey Canadian municipal governments&lt;/a&gt;
+ to determine their infrastructure needs.    &lt;a href=&quot;http://www.fcm.ca/CMFiles/mdeficit1opt-792008-3425.pdf&quot; style=&quot;float: right;&quot; target=&quot;_self&quot;&gt;&lt;img alt=&quot;Canada Municipal Infrastructure Deficit by Category FCM 2007&quot; src=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef01538f0c0a06970b-320wi&quot; style=&quot;margin: 0px 0px 5px 5px;&quot; title=&quot;Canada Municipal Infrastructure Deficit by Category FCM 2007&quot; /&gt;&lt;/a&gt;
+ Based on the responses to the survey, FCM estimated that the municipal 
+infrastructure deficit in Canada in 2007 was C$123 billion.  The FCM 
+broke this down by key infrastructure categories,
+&lt;ul&gt;
+&lt;li&gt;water and waste water systems - $31 billion&lt;/li&gt;
+&lt;li&gt;transportation - $21.7 billion&lt;/li&gt;
+&lt;li&gt;transit - $22.8 billion&lt;/li&gt;
+&lt;li&gt;waste management - $7.7 billion&lt;/li&gt;
+&lt;li&gt;community, recreational, cultural and social infrastructure - $40.2 billion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;New Infrastructure Needs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The FCM McGill University survey also attempted to estimate new 
+infrastructure needs, defined as all infrastructure that needs to be 
+expanded or built to meet the changing needs of a community for 
+demographic, socio-economic, environmental and other related reasons. 
+Capital investments required to provide an enhanced level of service or 
+meet new regulations would also be included.  The FCM estimated the cost
+ of new infrastructure to be C$115 billion.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;a class=&quot;asset-img-link&quot; href=&quot;http://www.fcm.ca/Documents/backgrounders/The_Road_to_Jobs_and_Growth_Solving_Canadas_Municipal_Infrastructure_Challenge_-_Submission_EN.pdf&quot; style=&quot;float: right;&quot; target=&quot;_self&quot;&gt;&lt;img alt=&quot;FCM long term infrastructure plan&quot; class=&quot;asset  asset-image at-xid-6a00d83476d35153ef017ee5726592970d&quot; src=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef017ee5726592970d-320wi&quot; style=&quot;margin: 0px 0px 5px 5px;&quot; title=&quot;FCM long term infrastructure plan&quot; /&gt;&lt;/a&gt;FCM 20 year infrastructure plan submitted to the federal government&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;November 13 the FCM submitted a long term municipal infrastructure plan (LTIP) entitled &lt;a href=&quot;http://www.fcm.ca/Documents/backgrounders/The_Road_to_Jobs_and_Growth_Solving_Canadas_Municipal_Infrastructure_Challenge_-_Submission_EN.pdf&quot; target=&quot;_self&quot;&gt;The Road to Jobs and Growth: Solving Canada's Municipal Infrastructure Challenge&lt;/a&gt; to the federal government as its contribution to the federal government's six months of consultations on long-term infrastructure planning.&lt;br /&gt;&lt;br /&gt;The FCM plano calls for an increase in annual federal investments in municipal infrastructure  from $3.25 billion to $5.75 billion over 20 years.  This would bring funding, as a percentage of GDP, in line with historical levels from the 1950s to the mid-1970s.  To achieve this FCM is proposing maintaining the existing permanent gas tax transfer, but with cost-of-living indexing.  In addition it is proposing a new federal program that would matching investments from municipalities and provinces.  &lt;/p&gt;
+&lt;p&gt;The FCM plan also places great emphasis on encouraging public-private-partnerships (P3) and sustainable development.&lt;/p&gt;
+&lt;p&gt;The recommendations include&lt;/p&gt;
+&lt;p&gt;1. Funding should be long-term and predictable&lt;br /&gt;Commit funding to LTIP for 15 to 20 years with five-year planning cycles.&lt;/p&gt;
+&lt;p&gt;2. Invest to leverage additional funds&lt;br /&gt;An annual federal investment of $5.75 billion in LTIP will leverage an additional $7.5 billion in new provincial, territorial and municipal investments. These investments are on top of the $12 to $15 billion that municipalities already invest each year in local infrastructure and billions more contributed by provincial and territorial governments.&lt;/p&gt;
+&lt;p&gt;3. Renew and improve the Gas Tax Fund and the Building Canada Fund&lt;br /&gt;a. Direct 100 percent of the Building Canada Fund (BCF) to municipal infrastructure.&lt;br /&gt;b. Protect the current purchasing power of the Gas Tax Fund (GTF) and BCF against inflation.&lt;br /&gt;&lt;br /&gt;4. Core Economic Infrastructure Fund&lt;br /&gt;a. Invest $2.5 billion annually in a Core Economic Infrastructure Fund (CEIF), to be matched by municipal governments and by provincial and territorial governments, for a total program value of $7.5 billion a year.&lt;br /&gt;b. Focus CEIF on core economic infrastructure, such as transit, roads, bridges and other municipal transportation infrastructure, and on water, wastewater and storm-water infrastructure.&lt;br /&gt;&lt;br /&gt;5. Reduce gridlock, build transit&lt;br /&gt;To reduce congestion and improve local mobility, allocate the $1 billion Cutting Commute Times component of the CEIF to transit.&lt;/p&gt;
+&lt;p&gt;6. Meeting new needs&lt;br /&gt;Prioritize projects that meet new federal wastewater regulations.&lt;/p&gt;
+&lt;p&gt;7. P3s and alternative financing&lt;br /&gt;a. Ensure the majority of LTIP is delivered through program models that maximize predictability and certainty. This increases municipal financing options, especially for P3s.&lt;br /&gt;b. Create a “P3 screen” that requires all municipal projects with a value of $200 million or more that are receiving federal funding to develop a thorough business case that includes analysis on the viability of P3s.&lt;/p&gt;
+&lt;p&gt;8. Innovative Infrastructure&lt;br /&gt;a. Create the Centre for Municipal Infrastructure Innovation and Sustainability (CMIIS) to help build the capacity of municipalities to improve asset management and innovative infrastructure practices.&lt;br /&gt;b. Renew and expand the National Guide to Sustainable Municipal Infrastructure (InfraGuide).&lt;br /&gt;c. Create the Innovative Infrastructure Fund (IIF) by expanding the FCM Green Municipal Fund endowment to make revolving loans and grants to municipalities for innovative, sustainable infrastructure pilot projects.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Canada's cities call for a 20-year infrastructure plan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Last week leaders from 22 of the largest municipalities in Canada met in Ottawa for the &lt;a href=&quot;http://www.fcm.ca/home/about-us/big-city-mayors-caucus.htm&quot; target=&quot;_self&quot;&gt;Big City Mayors' Caucus&lt;/a&gt; to discuss what the cities need from the Federal Government in next Spring's budget..  They praised the Federal government for investing in Canadian cities through successful programs such as the Gas Tax Fund, the Building Canada Fund and the Economic Action Plan stimulus funding but are concerned that most of this funding expires by 2014.  They are even more concerned about that the state of municipal infrastructure in many Canadian cities represents a significant threat both to economic development and to quality of life. Their first priority is to modernize 
+transportation networks. Traffic gridlock costs the economy $10 
+billion a year. One out of every four roads is congested, and 50% need immediate repair.  The mayors said that only 8 cents out of very tax dollar currently goes to municipalities.&lt;br /&gt;&lt;br /&gt;The municipal leaders said that they&lt;a href=&quot;http://www.fcm.ca/home/media/news-releases/2012/canadian-cities-spending-12-billion-on-infrastructure-pledge-to-match-new-federal-funding.htm&quot; target=&quot;_self&quot;&gt; support the long term infrastructure plan&lt;/a&gt; recently submitted to the federal government by the FCM which asks the Federal government to commit $5.75 billion annually to municipal infrastructure.  THE FCM estimates that that level of committment by the Federal government would leverage an additional $7.5 billion annually from other sources including provincial, territorial, and municipal governments.&lt;/p&gt;</description>
+	<pubDate>Wed, 21 Nov 2012 02:50:21 +0000</pubDate>
+</item>
+<item>
+	<title>LiDAR News: The International Journal of Unmanned Systems Engineering</title>
+	<guid isPermaLink="false">http://blog.lidarnews.com/?p=10286</guid>
+	<link>http://feedproxy.google.com/~r/InTheScan/~3/7bmQHz98u5w/the%c2%a0international-journal-of-unmanned-systems-engineering</link>
+	<description>IJUSEng provides a platform for authors and researchers for communicating their latest findings, ideas and methods at the forefront of technology in the field of unmanned systems engineering....&lt;br /&gt;
+&lt;br /&gt;
+Click Title to Continue Reading...&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/InTheScan/~4/7bmQHz98u5w&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Wed, 21 Nov 2012 00:45:52 +0000</pubDate>
+</item>
+<item>
+	<title>Geo-preneur: Cross-platform (iOS/Android) Mobile App development using C++</title>
+	<guid isPermaLink="true">http://blog.burhum.com/post/36166554007</guid>
+	<link>http://blog.burhum.com/post/36166554007</link>
+	<description>&lt;p&gt;At &lt;a href=&quot;http://www.amigocloud.com&quot;&gt;AmigoCloud&lt;/a&gt;, we use tons of C++ &amp;amp; OpenGL for our Mapping applications.&lt;/p&gt;
+
+&lt;p&gt;Funny enough, when I talk to tech-people about our startup and tell them that we have a cross-platform framework, the first words that come out of their mouth is “HTML5”. Although we &lt;em&gt;do&lt;/em&gt; use HTML5 for some of our components (a topic for another day), they always end up looking surprised when I tell them that 90% of the code is C++ (the other 10% being platform specific GUI + glue code).&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://media.tumblr.com/tumblr_mdt31qPEjp1qkr5g0.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes. Actually, it gets better.&lt;/p&gt;
+
+&lt;p&gt;The truth is that &lt;strong&gt;the same core client C++ code runs completely fine on OSX, Android, iOS, Windows, Linux, FreeBSD&lt;/strong&gt; and possibly other platforms that we have not bothered to attempt.&lt;/p&gt;
+
+&lt;p&gt;C++ is an awesome versatile language with tons of libraries that, when carefully chosen, will make your life easier because they work completely fine on different platforms.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;Need to do threading? Use &lt;a href=&quot;https://computing.llnl.gov/tutorials/pthreads/&quot;&gt;pthreads&lt;/a&gt; or &lt;a href=&quot;http://www.boost.org/doc/libs/1_52_0/doc/html/thread.html#thread.overview&quot;&gt;Boost Threads&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Local storage? How about &lt;a href=&quot;http://www.sqlite.org/cintro.html&quot;&gt;sqlite&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;UTF16 support? Know about &lt;a href=&quot;http://demo.icu-project.org/icu-bin/icudemos&quot;&gt;ICU&lt;/a&gt; (we use something different, but I had to mention it).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Network Access? How about &lt;a href=&quot;http://curl.haxx.se/libcurl/c/&quot;&gt;cURL&lt;/a&gt;. Yeah, I know, the cURL API might not be the most beautiful thing. But writing a &lt;a href=&quot;https://github.com/mrtazz/restclient-cpp&quot;&gt;simple beautiful wrapper is honestly trivial&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;JSON? &lt;a href=&quot;https://bitbucket.org/zserge/jsmn/wiki/Home&quot;&gt;simple json parsers&lt;/a&gt;, &lt;a href=&quot;http://jsoncpp.sourceforge.net/&quot;&gt;elaborate json parsers&lt;/a&gt;, &lt;a href=&quot;http://boost-spirit.com/home/&quot;&gt;make-your-own-json-parsers &lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;You can have it all (mostly).&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://media.tumblr.com/tumblr_mdt46epwaG1qkr5g0.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By now you may be asking yourself, “I know how to write C++ and use those libraries, but how do I consume them in, say, Android and iOS?”.&lt;/p&gt;
+
+&lt;p&gt;For &lt;strong&gt;iOS&lt;/strong&gt;, you need to be aware that there is such thing as Objective C++ and this makes consuming C++ from Objective C trivial. There are several excellent &lt;a href=&quot;http://philjordan.eu/article/mixing-objective-c-c++-and-objective-c++&quot;&gt;articles in the net that describe how to do this.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For &lt;strong&gt;Android&lt;/strong&gt;, you need to be aware that there is such thing as a &lt;a href=&quot;http://developer.android.com/tools/sdk/ndk/index.html&quot;&gt;native sdk (aka android ndk)&lt;/a&gt;. Again, there are &lt;a href=&quot;http://blog.edwards-research.com/2012/04/tutorial-android-jni/&quot;&gt;several good tutorials online that explain the process.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In our case, the GUI code is (intentionally) platform-specific because we want to get the native control feel for each phone that we target. We also have a small set of wrappers for phone specific things like access to the phone sensors (a topic for another post).&lt;/p&gt;
+
+&lt;p&gt;Is it all as awesome as it sounds?&lt;/p&gt;
+
+&lt;p&gt;Sadly - &lt;em&gt;no&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;IMHO, there is a huge downside to it all: &lt;strong&gt;the build completely sucks&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Think about how many targets you have. Just in iOS, you can have x86, armv6, armv7 depending if you are running this on the emulator, or different iPhones. Every single dependency that you add will need to be compiled for that target. Then think about debug + release. Yuck!&lt;/p&gt;
+
+&lt;p&gt;So what to do about this?&lt;/p&gt;
+
+&lt;p&gt;At &lt;a href=&quot;http://www.amigocloud.com&quot;&gt;AmigoCloud&lt;/a&gt;, we use a custom build system for this. Nevertheless, when I was looking into this some months back, I stumbled &lt;a href=&quot;https://github.com/mevansam/cmoss&quot;&gt;upon several great scripts to take care of this process&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/mevansam/cmoss&quot;&gt;CMOSS&lt;/a&gt; itself is simple and works. Perhaps, if there is enough interest, I’ll write a small “Hello World” app that uses CMOSS to build both iOS and Android apps.&lt;/p&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 22:53:00 +0000</pubDate>
+</item>
+<item>
+	<title>Spatially Adjusted: Thinking About the Future of Planet Geospatial</title>
+	<guid isPermaLink="false">http://spatiallyadjusted.com/2012/11/20/thinking-about-the-future-of-planet-geospatial</guid>
+	<link>http://spatiallyadjusted.com/2012/11/20/thinking-about-the-future-of-planet-geospatial/</link>
+	<description>&lt;p&gt;&lt;a href=&quot;http://www.planetgs.com&quot;&gt;Planet Geospatial&lt;/a&gt; has &lt;a href=&quot;http://spatiallyadjusted.com/2005/10/22/introducing-planet-geospatial/&quot;&gt;been around for over 7 years&lt;/a&gt;.  It started on Planet Planet, moved to WordPress, then back to Planet Venus plaforms.  I’ll be honest, it really doesn’t cost me much in time or hosting fees.  It runs as it always has, a hourly CRON job that builds the simple HTML page.  Formatting gets wacky sometimes because most GIS bloggers can’t bother to close all their HTML tags, but that’s another story.&lt;/p&gt;
+
+&lt;p&gt;So even though I spend almost no time running it, I still think about it. I get about an email a week from someone who wants their blog added, wants to know why their blog isn’t updating (spoiler: stop using Feedburner) or even that they’d rather get their Esri news elsewhere.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;@&lt;a href=&quot;https://twitter.com/cageyjames&quot;&gt;cageyjames&lt;/a&gt; Crikies, I’d forgotten that existed. Included too much stuff I’m not interested in *cough* esri *cough*&lt;/p&gt;— Tim Bowden (@tim_bowden) &lt;a href=&quot;https://twitter.com/tim_bowden/status/270954791801352192&quot;&gt;November 20, 2012&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+
+&lt;p&gt;I’ve enjoyed working with Planet Geospatial and I still have it as a tab on all my browsers.  But what to do, what to do?&lt;/p&gt;
+
+&lt;p&gt;I’ve decided there are three ways to go:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Sell planetgs.com&lt;/li&gt;
+&lt;li&gt;Take donations to fund a new resource that has more value&lt;/li&gt;
+&lt;li&gt;Let Planet Geospatial die a quiet death in peace&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h3&gt;Sell Out&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt=&quot;JMF-Sellout&quot; src=&quot;http://images.spatiallyadjusted.com/JMF-MoneyHill.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve gotten an offer from someone who wants the domain to probably throw ads all over place place and probably destroy it for most users.  They know that this is the case, but they don’t really care.  I’m not emotional about it, if selling planetgs.com make sense, I’ll do it.  I would have rather had someone else offer money for the site and continue it as a GIS resource.  But I’m not sure anyone really wants to do that.&lt;/p&gt;
+
+&lt;h3&gt;Let It Die&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt=&quot;JMF-Death&quot; src=&quot;http://images.spatiallyadjusted.com/JMF-Death.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is easy, I just keep doing what I’m doing.  Add/remove blog feeds as emails come it.  Honestly, if I spend 1 hour a year doing this I’d be surprised.  Since this is how I’ve been running Planet Geospatial for the past couple year so you can tell I don’t find it rewarding.&lt;/p&gt;
+
+&lt;h3&gt;Fund a New Planet Geospatial&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt=&quot;JMF-Begging&quot; src=&quot;http://images.spatiallyadjusted.com/JMF-begging.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The last option as I see it is to get some donations from readers to give me funds to hire a developer to create a new aggregator built for how we use the Internet in 2012.  I thought about taking people’s time donated (GitHub style) to create something, but I think if I went this route I would want to pay someone to get it done.  This seems possible as I don’t think I need that much money to get it done, but do people even donate money to niche web projects anymore?  I know I do, but my gut tells me I wouldn’t get more than $10 bucks.&lt;/p&gt;
+
+&lt;h3&gt;Why Not Just Sell Ads?&lt;/h3&gt;
+
+&lt;p&gt;Well ads suck these days, they don’t get enough revenue to justify their existence (note to self, remove that stupid Google ad on the right).  Plus, the core of Planet Geospatial is not my work.  I don’t like the idea of selling ads around other people’s work.  Plus, 99% of them would just be for the 2013 Esri UC, right?&lt;/p&gt;
+
+&lt;h3&gt;Endgame&lt;/h3&gt;
+
+&lt;p&gt;So what is next?  I’m not sure, I’m not going to make a rash decision here.  The offer for the domain is still valid so that’s got at least another month of life left.  For every person who says they’d donate, 10 tell me that I’m crazy (but they don’t say if they’d give a buck or two).  I’m curious what you guys think?&lt;/p&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 20:44:00 +0000</pubDate>
+</item>
+<item>
+	<title>LiDAR News: Direct Dimensions Launches ShapeShot</title>
+	<guid isPermaLink="false">http://blog.lidarnews.com/?p=10281</guid>
+	<link>http://feedproxy.google.com/~r/InTheScan/~3/ZA2OSTm5H8A/direct-dimensions-launches-shapeshot</link>
+	<description>The basic concept is to capture the 3D geometry of the person or object in the booth and then 3D print the model. Continue reading →&lt;br /&gt;
+&lt;br /&gt;
+Click Title to Continue Reading...&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/InTheScan/~4/ZA2OSTm5H8A&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 20:35:25 +0000</pubDate>
+</item>
+<item>
+	<title>Ed Parsons: Geo for Research and Higher Education Workshop</title>
+	<guid isPermaLink="false">http://www.edparsons.com/?p=2386</guid>
+	<link>http://www.edparsons.com/2012/11/geo-for-research-and-higher-education-workshop/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=geo-for-research-and-higher-education-workshop</link>
+	<description>&lt;p&gt;&lt;a href=&quot;http://blakeparsons.com/edparsons/wp-content/uploads/2012/11/Screen-Shot-2012-11-20-at-17.11.22.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignleft size-full wp-image-2387&quot; height=&quot;149&quot; src=&quot;http://blakeparsons.com/edparsons/wp-content/uploads/2012/11/Screen-Shot-2012-11-20-at-17.11.22.png&quot; title=&quot;Workshop&quot; width=&quot;209&quot; /&gt;&lt;/a&gt;If you are going along to the &lt;a href=&quot;http://fallmeeting.agu.org/2012/&quot; target=&quot;_blank&quot;&gt;AGU&lt;/a&gt; in San Francisco this year, I would recommend registering for &lt;a href=&quot;https://sites.google.com/a/earthoutreach.org/geo-for-higher-education-workshop-2012/home&quot; target=&quot;_blank&quot;&gt;this event&lt;/a&gt; which is being run by the Google Earth Outreach team. It’s free, but there are only 100 places.&lt;/p&gt;
+&lt;p&gt;This is a “hands on” event so you need to bring your laptop and knowledge of Javascript/Google Earth !&lt;/p&gt;
+&lt;p&gt;If there is enough interest we could arrange a similar event in Europe, let me know..&lt;/p&gt;
+&lt;p&gt;Written and submitted from home (51.425N, 0.331W)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 17:14:19 +0000</pubDate>
+</item>
+<item>
+	<title>Spatially Adjusted: This Week's Hangout:: Talking Shop Part 2</title>
+	<guid isPermaLink="false">http://spatiallyadjusted.com/2012/11/20/this-weeks-hangout-open-geo</guid>
+	<link>http://spatiallyadjusted.com/2012/11/20/this-weeks-hangout-open-geo/</link>
+	<description>&lt;p&gt;Quick programming note!  Luc can’t make today’s hangout, but we’ll still have tons of fun.  I’ll also be talking about the future of Planet Geospatial.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+
+&lt;p&gt;&lt;s&gt;This week is going to be a great hangout.  &lt;a href=&quot;http://geoplan.asu.edu/anselin&quot;&gt;Luc Anselin&lt;/a&gt;, Director of the GeoDa Center for Geospatial Analysis and Computation at Arizona State University, joins Madeline and James for a Hangout. We’ll talk about using Python to perform GIS Analysis, open source tools, open source in Education and why the Arizona State Sun Devil football team &lt;a href=&quot;http://en.wikipedia.org/wiki/Territorial_Cup&quot;&gt;will destroy that stupid UofA team on Friday&lt;/a&gt;. Arizona State’s GeoDa Center is a great resource for GIS analytical tools such as &lt;a href=&quot;https://geodacenter.asu.edu/projects/opengeoda&quot;&gt;OpenGeoDa&lt;/a&gt;, &lt;a href=&quot;https://geodacenter.asu.edu/projects/pysal&quot;&gt;PySAL&lt;/a&gt;, &lt;a href=&quot;https://geodacenter.asu.edu/projects/rsp&quot;&gt;R-Geo&lt;/a&gt; and others.&lt;/s&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ll be talking on the IRC channel again so either &lt;a href=&quot;http://www.weogeo.com/video/Hangouts_with_James_Fee_Open_Geo_Duh.html&quot;&gt;show up to the Hangout page on WeoGeo&lt;/a&gt; or better yet, point your IRC client to &lt;code&gt;#hwjf&lt;/code&gt; on &lt;code&gt;chat.freenode.net&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;HWJF&quot; src=&quot;http://www.weogeo.com/files/img/videos/HangoutsWJF.png&quot; /&gt;&lt;/p&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 16:36:00 +0000</pubDate>
+</item>
+<item>
+	<title>AnyGeo: Photo Tips – Share your Instagram Photos on a card from Copygram</title>
+	<guid isPermaLink="false">http://blog.gisuser.com/?p=12079</guid>
+	<link>http://blog.gisuser.com/2012/11/20/share-your-instagram-photos-on-a-card-from-copygram/</link>
+	<description>Are you an Instagram user and fan? If so then no doubt you have some awesome and likely special photos sitting in your Instagram account. So now what? Copygram is a cool implementation of the Instagram API that enables users … &lt;a href=&quot;http://blog.gisuser.com/2012/11/20/share-your-instagram-photos-on-a-card-from-copygram/&quot;&gt;Continue reading &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 15:48:09 +0000</pubDate>
+</item>
+<item>
+	<title>OpenGeo: GeoServer CSS module: style in style</title>
+	<guid isPermaLink="false">http://blog.opengeo.org/?p=4240</guid>
+	<link>http://blog.opengeo.org/2012/11/20/geoserver-css-module-style-in-style/</link>
+	<description>&lt;p&gt;OpenGeo is excited to share the &lt;a href=&quot;http://docs.geoserver.org/stable/en/user/community/css/index.html&quot;&gt;GeoServer CSS module&lt;/a&gt;, an alternative to SLD for thematic map styling in the OpenGeo Suite. Compared to SLD, GeoServer CSS brings many advantages for web cartographers.&lt;/p&gt;
+&lt;p&gt;GeoServer CSS is customized for use in GeoServer and provides access to spatial utilities such as powerful filter expressions that are useful not only for choosing which features to render but also for transforming geometries and other attributes on-the-fly during the rendering process. Thanks to its custom syntax (which builds on OGC CQL the same way that SLD builds on OGC Filter Encoding XML) it is much more compact, allowing authors to see more of the style without scrolling and to make edits without worrying about details such as closing nested XML tags in the proper order. GeoServer CSS is also simpler because it eschews some non-styling aspects of SLD such as embedded geometries.&lt;/p&gt;
+&lt;p&gt;As an example, let’s say we are styling polygons representing the habitats of several bird species. We would like to distinguish species by color (orioles have an orange area, bluebirds have a blue one, etc.), but all polygons should have a consistent opacity to help us identify places where habitats overlap. A style in CSS notation might look like this:&lt;/p&gt;
+&lt;pre&gt;[species=&quot;bluebird&quot;] {
+    fill: blue;
+    fill-opacity: 70%;
+}
+
+[species=&quot;oriole&quot;] {
+    fill: orange;
+    fill-opacity: 70%;
+}
+
+[species=&quot;robin&quot;] {
+    fill: brown;
+    fill-opacity: 70%;
+}&lt;/pre&gt;
+&lt;p&gt;&lt;span id=&quot;more-4240&quot;&gt;&lt;/span&gt;Whereas in SLD, we might write the following much more verbose style:&lt;/p&gt;
+&lt;pre&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;
+&amp;lt;sld:UserStyle xmlns=&quot;http://www.opengis.net/sld&quot; xmlns:sld=&quot;http://www.opengis.net/sld&quot; xmlns:ogc=&quot;http://www.opengis.net/ogc&quot; xmlns:gml=&quot;http://www.opengis.net/gml&quot;&amp;gt;
+    &amp;lt;sld:FeatureTypeStyle&amp;gt;
+        &amp;lt;sld:Name&amp;gt;name&amp;lt;/sld:Name&amp;gt;
+        &amp;lt;sld:Rule&amp;gt;
+            &amp;lt;ogc:Filter&amp;gt;
+                &amp;lt;ogc:PropertyIsEqualTo&amp;gt;
+                    &amp;lt;ogc:PropertyName&amp;gt;species&amp;lt;/ogc:PropertyName&amp;gt;
+                    &amp;lt;ogc:PropertyName&amp;gt;oriole&amp;lt;/ogc:PropertyName&amp;gt;
+                &amp;lt;/ogc:PropertyIsEqualTo&amp;gt;
+            &amp;lt;/ogc:Filter&amp;gt;
+            &amp;lt;sld:PolygonSymbolizer&amp;gt;
+                &amp;lt;sld:Fill&amp;gt;
+                    &amp;lt;sld:CssParameter name=&quot;fill&quot;&amp;gt;#ffa500&amp;lt;/sld:CssParameter&amp;gt;
+                    &amp;lt;sld:CssParameter name=&quot;fill-opacity&quot;&amp;gt;0.7&amp;lt;/sld:CssParameter&amp;gt;
+                &amp;lt;/sld:Fill&amp;gt;
+            &amp;lt;/sld:PolygonSymbolizer&amp;gt;
+        &amp;lt;/sld:Rule&amp;gt;
+        &amp;lt;sld:Rule&amp;gt;
+            &amp;lt;ogc:Filter&amp;gt;
+                &amp;lt;ogc:PropertyIsEqualTo&amp;gt;
+                    &amp;lt;ogc:PropertyName&amp;gt;species&amp;lt;/ogc:PropertyName&amp;gt;
+                    &amp;lt;ogc:PropertyName&amp;gt;robin&amp;lt;/ogc:PropertyName&amp;gt;
+                &amp;lt;/ogc:PropertyIsEqualTo&amp;gt;
+            &amp;lt;/ogc:Filter&amp;gt;
+            &amp;lt;sld:PolygonSymbolizer&amp;gt;
+                &amp;lt;sld:Fill&amp;gt;
+                    &amp;lt;sld:CssParameter name=&quot;fill&quot;&amp;gt;#ff000&amp;lt;/sld:CssParameter&amp;gt;
+                    &amp;lt;sld:CssParameter name=&quot;fill-opacity&quot;&amp;gt;0.7&amp;lt;/sld:CssParameter&amp;gt;
+                &amp;lt;/sld:Fill&amp;gt;
+            &amp;lt;/sld:PolygonSymbolizer&amp;gt;
+        &amp;lt;/sld:Rule&amp;gt;
+        &amp;lt;sld:Rule&amp;gt;
+            &amp;lt;ogc:Filter&amp;gt;
+                &amp;lt;ogc:PropertyIsEqualTo&amp;gt;
+                    &amp;lt;ogc:PropertyName&amp;gt;species&amp;lt;/ogc:PropertyName&amp;gt;
+                    &amp;lt;ogc:PropertyName&amp;gt;bluebird&amp;lt;/ogc:PropertyName&amp;gt;
+                &amp;lt;/ogc:PropertyIsEqualTo&amp;gt;
+            &amp;lt;/ogc:Filter&amp;gt;
+            &amp;lt;sld:PolygonSymbolizer&amp;gt;
+                &amp;lt;sld:Fill&amp;gt;
+                    &amp;lt;sld:CssParameter name=&quot;fill&quot;&amp;gt;#0000ff&amp;lt;/sld:CssParameter&amp;gt;
+                    &amp;lt;sld:CssParameter name=&quot;fill-opacity&quot;&amp;gt;0.7&amp;lt;/sld:CssParameter&amp;gt;
+                &amp;lt;/sld:Fill&amp;gt;
+            &amp;lt;/sld:PolygonSymbolizer&amp;gt;
+        &amp;lt;/sld:Rule&amp;gt;
+    &amp;lt;/sld:FeatureTypeStyle&amp;gt;
+&amp;lt;/sld:UserStyle&amp;gt;&lt;/pre&gt;
+&lt;p&gt;Where SLD would require all style properties to be listed for each rule in the style, the “cascading” nature of CSS allows styles to specify common attributes in one place. This allows styles to be written in a less repetitive way, reducing the amount of work needed to create styles and making it easier to ensure consistency between multiple rules. The repeated property “fill-opacity: 70%” in the example above presents a problem when updating the style—it’s extra work for a web cartographer to ensure that the fill is applied consistently across all styles. While it doesn’t save us much typing (although compared to SLD we are already way ahead!) we can change opacities across the entire style by editing in just one place. For example, we could “factor out” the opacity to a catch-all rule:&lt;/p&gt;
+&lt;pre&gt;* {
+    fill-opacity: 70%;
+}
+
+[species=&quot;bluebird&quot;] {
+    fill: blue;
+}
+
+[species=&quot;oriole&quot;] {
+    fill: orange;
+}
+
+[species=&quot;robin&quot;] {
+    fill: brown;
+}&lt;/pre&gt;
+&lt;p&gt;GeoServer CSS is inspired by the web—and by great tools like &lt;a href=&quot;http://mapbox.com/carto/&quot;&gt;Carto&lt;/a&gt;, &lt;a href=&quot;http://mike.teczno.com/notes/cascadenik.html&quot;&gt;Cascadenik&lt;/a&gt;, and &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/MapCSS&quot;&gt;MapCSS&lt;/a&gt;. Like these tools it provides a concise styling syntax modeled on CSS but differs in that it’s goal is to improve the experience relative to SLD while preserving CSS concepts like cascading. While we ultimately aspire to a common CSS-like styling language for web cartography, we hope that GeoServer CSS is much easier than SLD and will be familiar enough for web designers to use.&lt;/p&gt;
+&lt;p&gt;We’re excited about GeoServer CSS and think it makes building maps easier, We’d like you to try it out and tell us what you think. If it’s well-received, we may include it in a future release of the &lt;a href=&quot;http://opengeo.org/products/suite/&quot;&gt;OpenGeo Suite&lt;/a&gt;. We encourage you to &lt;a href=&quot;http://gridlock.opengeo.org/geoserver/2.2.x/community-latest/geoserver-2.2-SNAPSHOT-css-plugin.zip&quot;&gt;download&lt;/a&gt; and &lt;a href=&quot;http://docs.geoserver.org/stable/en/user/community/css/install.html&quot;&gt;install&lt;/a&gt; the plugin, and if you have any questions, be sure to &lt;a href=&quot;http://docs.geoserver.org/stable/en/user/community/css/index.html&quot;&gt;read the documentation&lt;/a&gt; or look for dwins in the &lt;a href=&quot;irc://irc.freenode.net/geoserver&quot;&gt;#geoserver&lt;/a&gt; IRC channel on Freenode.&lt;/p&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 15:30:52 +0000</pubDate>
+</item>
+<item>
+	<title>geopublishing.org: Geopublisher and AtlasStyler development ceased</title>
+	<guid isPermaLink="false">http://en.geopublishing.org/143 at http://en.geopublishing.org</guid>
+	<link>http://en.geopublishing.org/GoodBye</link>
+	<description>&lt;h2&gt;Today I sadly have to announce, that Geopublisher and AtlasStyler development ceased.&lt;/h2&gt;
+&lt;p&gt;Geopublisher started as part of my diploma thesis in 2008. In 2009 AtlasStyler SLD editor emerged as a stand-alone application. The projects have always been Open-Source. The software has worldwide users and it always gave me great pleasure to receive friendly mails from around the globe. Despite many enthusiastic users, the project didn't manage to win Java developers that could help me with the core development. Neither did commercial support contracts suffice to feed me and my family.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://de.geopublishing.org/sites/de.geopublishing.org/files/Why_Geopublisher_Development_Ceased.jpg&quot; style=&quot;float: right;&quot; title=&quot;She is a good reason to spend more time with the family.&quot; /&gt;Today in 2012 I am fully involved in a new real-estate statistics and mapping project (&lt;a href=&quot;http://www.empirica-systeme.de&quot; title=&quot;http://www.empirica-systeme.de&quot;&gt;http://www.empirica-systeme.de&lt;/a&gt;). Whenever there is any spare time I want to spend it with my family. I hope that in a few years I will have more time to do fun things for free again - that could be a newly rewritten Geopublisher 2.0 or something else usefull, exciting and surely Open-Source.&lt;/p&gt;
+&lt;p&gt;I want to say &lt;b&gt;THANK YOU&lt;/b&gt; for all the support and motivation, starting with Dr. Hans-Peter Thamm, the IMPETUS project, Andrea Aime @ Geotools, Michael Janik, Edwin Amado and many many more. For me this has been a great experience and I hope the software will continue to be useful to many people for many more years.&lt;/p&gt;
+&lt;p&gt;Sincerely yours,&lt;br /&gt;
+      Stefan Tzeggai&lt;/p&gt;
+&lt;p&gt;PS: I will keep the JavaWebStart and Atlas-Online-Publication services online for at least one year.&lt;/p&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 14:27:54 +0000</pubDate>
+</item>
+<item>
+	<title>The Big Blue Thread: Happy Belated Veterans Day: GIs and GPS</title>
+	<guid isPermaLink="false">http://blog.epa.gov/bigbluethread/?p=827</guid>
+	<link>http://blog.epa.gov/bigbluethread/2012/11/happy-belated-veterans-day-gis-and-gps/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=happy-belated-veterans-day-gis-and-gps</link>
+	<description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;By Joe Summerlin&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A few years ago, I found myself trekking along Town Branch Creek in Bolivar, &lt;a class=&quot;thickbox no_icon&quot; href=&quot;http://blog.epa.gov/bigbluethread/wp-content/uploads/2012/11/plggr.jpg&quot; rel=&quot;lightbox[827]&quot; title=&quot;plggr&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignright size-full wp-image-829&quot; height=&quot;312&quot; src=&quot;http://blog.epa.gov/bigbluethread/wp-content/uploads/2012/11/plggr.jpg&quot; title=&quot;plggr&quot; width=&quot;329&quot; /&gt;&lt;/a&gt;Missouri noting areas that were impaired, taking photos, and storing waypoints on my smartphone. I mused at how easy it was to load information and tell a story about this little watershed from a device that fit firmly in the palm of my hand. Then it dawned on me. Just fifteen years earlier, I had witnessed the birth of handheld GPS devices in the U.S. Army. I then thought, “I am getting old. Maybe some of the younger generation would like to know about the predecessor to devices they take for granted today.” This blog will discuss the capabilities of handheld GPS devices in the early 1990’s, specifically the Precision Lightweight GPS Receiver (PLGR.)&lt;/p&gt;
+&lt;p&gt;The PLGR or “plugger” was one of the first mass produced handheld GPS devices used by conventional forces in the U.S. Army. It saw its first real combat test in 1991 during the Gulf War. The concept was simple: use existing military and secure government satellites to orient a soldier on the battlefield. At the time there were 24 satellites in orbit and this puppy needed three for accurate lat/long data or four for lat/long plus elevation data.&lt;/p&gt;
+&lt;p&gt;Many of the negative characteristics of the design of this beast were made by engineers to ensure longevity and meet the requirements set by U.S. Army leaders. Note the lack of a full color display. This was designed on purpose using liquid crystal displays to ensure an ambient light source would not give away the positions of soldiers on the field. This also made it incredibly difficult to read where you were. The display was also compatible with night vision goggles. Unfortunately, I always peeked under my goggles and pushed the “light” button or used a red-filtered lens and shined it on the display.&lt;/p&gt;
+&lt;p&gt;The PLGR was bulky, boxy and not a product to sell to the masses. The buttons were clunky and there were only twelve. In order to store a waypoint you had to arrow through a bunch of poorly written menus. Sometimes when you wanted to store a waypoint, you would find yourself scrolling through a menu for 10 minutes. When you did actually store a waypoint, you would have to clunk your way back to the main menu by using a series of guesses, some luck, and maybe some sort of magic ritual. My secret was to hit the power button and wait for the 7 minute reboot.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;thickbox no_icon&quot; href=&quot;http://blog.epa.gov/bigbluethread/wp-content/uploads/2012/11/army.jpg&quot; rel=&quot;lightbox[827]&quot; title=&quot;army&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignleft size-full wp-image-828&quot; height=&quot;289&quot; src=&quot;http://blog.epa.gov/bigbluethread/wp-content/uploads/2012/11/army.jpg&quot; title=&quot;army&quot; width=&quot;214&quot; /&gt;&lt;/a&gt;I haven’t even touched on the size of this monster. Hand held – yes, only if you had Shaquille O’Neal-sized hands. The PLGR weighed a &lt;em&gt;mere&lt;/em&gt; 2.75 pounds or about the equivalent of one canteen of water.&lt;/p&gt;
+&lt;p&gt;The PLGR was large for two reasons. First, micro technology was not as advanced, and second, soldiers lose small items. It used 634 AA batteries (maybe it just seemed like it did) and the battery life was about 2 hours. We learned to conserve battery power by turning it off and using the maps in our pockets. Only when we were lost (which never happened because we are the U.S. Army) did we pull it out to get our bearings.&lt;/p&gt;
+&lt;p&gt;Well, there you have it, the smartphone’s grandpappy. Next time you are in the car listening to that speak n’ spell voice demanding “TURN RIGHT,” just think to yourself, if it weren’t for the military and those veterans that tested and used this stuff I might have just made a left turn at Albuquerque.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Joe Summerlin&lt;/strong&gt; is an Environmental Scientist in EPA Region 7 who works with the Agency’s NEPA program. He served in the U.S. Army for 14 years as a Cavalry Scout and a CH-47D &lt;em&gt;Chinook &lt;/em&gt; helicopter pilot.&lt;/p&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 14:21:54 +0000</pubDate>
+</item>
+<item>
+	<title>Directions Magazine: Using Digital Maps To Study Disaster Preparedness and History - NPR</title>
+	<guid isPermaLink="true">http://www.directionsmag.com/podcasts/using-digital-maps-to-study-disaster-preparedness-and-history-npr/292287</guid>
+	<link>http://www.directionsmag.com/podcasts/using-digital-maps-to-study-disaster-preparedness-and-history-npr/292287</link>
+	<description>This week on WNYC's New Tech City, host Manoush Zomorodi speaks with Steven Romalewski, director of the Mapping Service at the Center for Urban Research at the CUNY Graduate Center, about mapping before and after Sandy.
+
+Plus, a visit to the map room at the New York Public Library. Cartographers there are working with NYPL Labs to put old maps online and make them useable in the digital age thanks to a process known called &quot;map warping.&quot;
+      
+      More about: cartography, romalewski, wnyc
+      ]]&amp;gt;</description>
+	<pubDate>Tue, 20 Nov 2012 12:59:55 +0000</pubDate>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/newtechcity/newtechcity20121120pod.mp3" length="3046191" type="audio/mpeg"/>
+</item>
+<item>
+	<title>What's new about OTB?: New courses on Pleiades images analysis with the ORFEO ToolBox</title>
+	<guid isPermaLink="false">http://blog.orfeo-toolbox.org/?p=1366</guid>
+	<link>http://blog.orfeo-toolbox.org/news/new-courses-on-pleiades-images-analysis-with-the-orfeo-toolbox</link>
+	<description>&lt;p style=&quot;text-align: justify;&quot;&gt;Pleiades is now in flight since almost one year and its twin&lt;a href=&quot;http://www.cnes.fr/web/CNES-fr/3227-pleiades.php&quot;&gt; Pleiades 1B&lt;/a&gt; is going to be launched in few days from Kourou. In the frame of the availability of Pleiades images, the OTB team at CNES recently worked on a set of new tutorials to learn how OTB functionality can help in the manipulation and analysis of Pleiades imagery.&lt;/p&gt;
+&lt;div class=&quot;wp-caption aligncenter&quot; style=&quot;width: 310px;&quot;&gt;&lt;a href=&quot;http://blog.orfeo-toolbox.org/wp-content/uploads/2012/11/A5-hEU5CEAET9Rb.jpglarge.jpeg&quot;&gt;&lt;img alt=&quot;&quot; height=&quot;200&quot; src=&quot;http://blog.orfeo-toolbox.org/wp-content/uploads/2012/11/A5-hEU5CEAET9Rb.jpglarge-300x200.jpeg&quot; title=&quot;OTB at OGRS 2012&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;OTB at OGRS 2012&lt;/p&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;To test these new tutorials, we organized a workshop in the frame of the &lt;a href=&quot;http://www.ogrs2012.org/&quot; target=&quot;_blank&quot;&gt;OGRS conference&lt;/a&gt;. This conference aims at exchanging ideas on development and use of open source geospatial software in both research and education. The conference took place in Yverdon-Les-Bains Switzerland at the end of october and it was a great opportunity to see how Open Source initiatives help to the dissemination and the use of geospatial information.&lt;/p&gt;
+&lt;div class=&quot;wp-caption aligncenter&quot; id=&quot;attachment_1369&quot; style=&quot;width: 310px;&quot;&gt;&lt;a href=&quot;http://blog.orfeo-toolbox.org/wp-content/uploads/2012/11/melbourne_ms_toa_ortho_extract_small_classification_5classes_color_mapping.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;size-medium wp-image-1369&quot; height=&quot;300&quot; src=&quot;http://blog.orfeo-toolbox.org/wp-content/uploads/2012/11/melbourne_ms_toa_ortho_extract_small_classification_5classes_color_mapping-300x300.png&quot; title=&quot;SVM classification map&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;SVM classification map&lt;/p&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Data used for the workshop were some &lt;a href=&quot;http://www.astrium-geo.com/en/23-sample-imagery&quot; target=&quot;_blank&quot;&gt;Pleiades imagery samples&lt;/a&gt; provided by Astrium Geo-Information services  and the exercises provide an overview of very last new functionality of the library. The course went from the basic image manipulation, segmentation, pixel and object based classification to stereo elevation from Pleiades images pair. Feedbacks and discussions with people who attended the workshop have been really positive.&lt;/p&gt;
+&lt;div class=&quot;wp-caption aligncenter&quot; id=&quot;attachment_1368&quot; style=&quot;width: 310px;&quot;&gt;&lt;a href=&quot;http://blog.orfeo-toolbox.org/wp-content/uploads/2012/11/meanshift_color_image.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;size-medium wp-image-1368 &quot; height=&quot;300&quot; src=&quot;http://blog.orfeo-toolbox.org/wp-content/uploads/2012/11/meanshift_color_image-300x300.png&quot; title=&quot;Mean-shift segmentation on harbour area&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;Mean-shift segmentation on harbour area&lt;/p&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;On the technical point of view, the idea of these tutorials was to build up a set of OTB functionalities based exercises that can be easily extended in the future. For this purpose, we used the powerful editing and organizing note tool&lt;a href=&quot;http://orgmode.org/&quot; target=&quot;_blank&quot;&gt; org-mode&lt;/a&gt;. It allows to easily create nice ad hoc PDF or HTML documents and to organize lessons or workshops, thanks to the partial export feature for instance. Another advantage of this new OTB tutorials is that they provides now a simple and modular architecture and we hope to continue to enrich it with new exercises in the future.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Thanks again to the Pleiades project which made this workshop possible.&lt;/p&gt;
+&lt;p&gt;All the materials for these courses are now available in the &lt;a href=&quot;http://hg.orfeo-toolbox.org/OTB-Documents/file/2e770f6a6146/Courses&quot; target=&quot;_blank&quot;&gt;OTB documentation repository&lt;/a&gt;. Feel free to try it, extend it and do not hesitate to send us feedbacks!&lt;/p&gt;
+&lt;p&gt;Keep in touch!&lt;/p&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 11:54:26 +0000</pubDate>
+</item>
+<item>
+	<title>All Points Blog: Update: What Nokia Announced on Tuesday</title>
+	<guid isPermaLink="true">http://apb.directionsmag.com/entry/what-nokia-announced-yesterday/291158</guid>
+	<link>http://apb.directionsmag.com/entry/what-nokia-announced-yesterday/291158</link>
+	<description>And, just a week after the announcement the HERE app is available for iOS. But reviews are mixed.
+
+	- HuffPo
+
+         ... &lt;a href=&quot;http://apb.directionsmag.com/entry/what-nokia-announced-yesterday/291158&quot;&gt;Continue reading&lt;/a&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 11:36:34 +0000</pubDate>
+</item>
+<item>
+	<title>All Points Blog: Esri Canada and RCGS Unite for Geoliteracy and other Education GIS News</title>
+	<guid isPermaLink="true">http://apb.directionsmag.com/entry/esri-canada-and-rcgs-unite-for-geoliteracy-and-other-education-gis-new/291196</guid>
+	<link>http://apb.directionsmag.com/entry/esri-canada-and-rcgs-unite-for-geoliteracy-and-other-education-gis-new/291196</link>
+	<description>In celebration of GIS Day, Esri Canada and the Royal Canadian Geographical Society (RCGS) today announced a collaborative agreement that will advance the organizations' common goal of promoting geographical literacy. 
+
+
+	How?
+
+	
+		Working together will allow the organizations to plan,... &lt;a href=&quot;http://apb.directionsmag.com/entry/esri-canada-and-rcgs-unite-for-geoliteracy-and-other-education-gis-new/291196&quot;&gt;Continue reading&lt;/a&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 10:26:10 +0000</pubDate>
+</item>
+<item>
+	<title>All Points Blog: New Geo APIs - 11/20/12</title>
+	<guid isPermaLink="true">http://apb.directionsmag.com/entry/new-geo-apis-11-20-12/292022</guid>
+	<link>http://apb.directionsmag.com/entry/new-geo-apis-11-20-12/292022</link>
+	<description>Apps for Ghent API: The service provided by the city of Ghent in Belgium encourages open data sharing by companies and other organizations It seeks to make available operating information about a business such as location, hours of operation, product offerings, and prices. The service... &lt;a href=&quot;http://apb.directionsmag.com/entry/new-geo-apis-11-20-12/292022&quot;&gt;Continue reading&lt;/a&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 10:00:38 +0000</pubDate>
+</item>
+<item>
+	<title>All Points Blog: Head Injury and Proximity to Paraquat Increases Likelihood of Parkinson’s and other Health GIS News</title>
+	<guid isPermaLink="true">http://apb.directionsmag.com/entry/head-injury-and-proximity-to-paraquat-increases-likelihood-of-parkinso/290966</guid>
+	<link>http://apb.directionsmag.com/entry/head-injury-and-proximity-to-paraquat-increases-likelihood-of-parkinso/290966</link>
+	<description>A new study shows that people who have had a head injury and have lived or worked near areas where the pesticide paraquat was used may be three times more likely to develop Parkinson’s disease. The study is published in the November 13, 2012, print issue of Neurology®, the medical... &lt;a href=&quot;http://apb.directionsmag.com/entry/head-injury-and-proximity-to-paraquat-increases-likelihood-of-parkinso/290966&quot;&gt;Continue reading&lt;/a&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 09:58:37 +0000</pubDate>
+</item>
+<item>
+	<title>Directions Magazine: Nokia Rebrands Mapping: The Perspective from an Enterprise GIS Partner</title>
+	<guid isPermaLink="true">http://www.directionsmag.com/podcasts/nokia-rebrands-mapping-the-perspective-from-an-enterprise-gis-partner/291407</guid>
+	<link>http://www.directionsmag.com/podcasts/nokia-rebrands-mapping-the-perspective-from-an-enterprise-gis-partner/291407</link>
+	<description>This week we get the lowdown on all of Nokia's recent mapping announcements from Jim Reid, president of ADCi, a long time Nokia partner.
+      
+      More about: augmentedreality, here, lbs, lumia, navteq, nokia
+      ]]&amp;gt;</description>
+	<pubDate>Tue, 20 Nov 2012 09:25:17 +0000</pubDate>
+        <enclosure url="http://www.directionsmag.com/images/podcasts/121120_don.mp3" length="6580880" type="audio/mpeg"/>
+</item>
+<item>
+	<title>Nathan's QGIS and GIS Blog: FOSS4G-AU in summary</title>
+	<guid isPermaLink="false">http://woostuff.wordpress.com/?p=1212</guid>
+	<link>http://woostuff.wordpress.com/2012/11/20/foss4g-au-in-summary/</link>
+	<description>&lt;p&gt;Last Thursday and Friday was our first local Australian FOSS4G event which was hosted at the CSRIO building in Brisbane.  Very big thanks to CSRIO for hosting the event.  The venue was setup perfectly for  hosting an event like this, including dual projectors for presenting, video calls over to Perth, etc.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot; alignnone&quot; height=&quot;179&quot; src=&quot;https://lh6.googleusercontent.com/-3Azxik6K-vs/UKowdDllYWI/AAAAAAAABTk/NIP1Tt2i3zc/s989/DSC06009.JPG&quot; width=&quot;791&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The first day was done using a un-conference style of event. This is the first time I’ve been to a un-conference and I liked the format a lot.   Once everyone was there on the first morning we collected ideas from people and everyone voted on which ones they would like to see.  After we had picked enough topics Shaun and I made a program for the day and we started.&lt;/p&gt;
+&lt;p&gt;Topics included:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/jgarnett/state-of-geoserver-2012&quot;&gt;State of GeoServer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://nathanw2.github.com/qmap/index.html&quot;&gt;QMap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://couchdb.apache.org/&quot;&gt;CouchDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Moblie mapping&lt;/li&gt;
+&lt;li&gt;Full open source stacks&lt;/li&gt;
+&lt;li&gt;Open Source GIS in Education&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;wp-caption alignnone&quot; style=&quot;width: 639px;&quot;&gt;&lt;img alt=&quot;&quot; class=&quot; &quot; height=&quot;418&quot; src=&quot;https://lh3.googleusercontent.com/-uh5UpmppklU/UKowJ0Lq4AI/AAAAAAAABVg/1dzNncFbZjc/s786/DSC06001.JPG&quot; width=&quot;629&quot; /&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;Me presenting QMap&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;The second day was a code sprint.  I worked on converting a MapBasic scripts from one of the guys to QGIS, and Jody enlisted the others to help check the headers of the GeoServer project so that it can finally pass OSGeo incubation.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone&quot; height=&quot;418&quot; src=&quot;https://lh3.googleusercontent.com/-amC6V68ALkQ/UKoxVpAXWGI/AAAAAAAABVM/Jd09xvRB4fk/s786/DSC06029.JPG&quot; width=&quot;629&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Overall I think it was a very successful event.  I would like to make these a yearly event if we can, provided that we have people to talk, or projects to work on.&lt;/p&gt;
+&lt;p&gt;More information about up coming OSGeo events in Australia and New Zealand can be found at h&lt;a href=&quot;http://www.meetup.com/osgeo-aust-nz/&quot;&gt;ttp://www.meetup.com/osgeo-aust-nz/&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;Filed under: &lt;a href=&quot;http://woostuff.wordpress.com/category/open-source/&quot;&gt;Open Source&lt;/a&gt;, &lt;a href=&quot;http://woostuff.wordpress.com/category/open-source/qgis/&quot;&gt;qgis&lt;/a&gt; Tagged: &lt;a href=&quot;http://woostuff.wordpress.com/tag/fossgis/&quot;&gt;FOSSGIS&lt;/a&gt;, &lt;a href=&quot;http://woostuff.wordpress.com/tag/gis/&quot;&gt;gis&lt;/a&gt;, &lt;a href=&quot;http://woostuff.wordpress.com/tag/open-source/&quot;&gt;Open Source&lt;/a&gt;, &lt;a href=&quot;http://woostuff.wordpress.com/tag/open-source-gis/&quot;&gt;open source gis&lt;/a&gt;, &lt;a href=&quot;http://woostuff.wordpress.com/tag/osgeo/&quot;&gt;osgeo&lt;/a&gt;, &lt;a href=&quot;http://woostuff.wordpress.com/tag/qgis/&quot;&gt;qgis&lt;/a&gt;, &lt;a href=&quot;http://woostuff.wordpress.com/tag/quantum-gis/&quot;&gt;Quantum GIS&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/woostuff.wordpress.com/1212/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/woostuff.wordpress.com/1212/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://stats.wordpress.com/b.gif?host=woostuff.wordpress.com&amp;amp;blog=4699413&amp;amp;post=1212&amp;amp;subd=woostuff&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 04:32:06 +0000</pubDate>
+</item>
+<item>
+	<title>The ENTCHEV GIS Blog: New Brunswick land assessment map</title>
+	<guid isPermaLink="false">tag:blog.entchev.com,2012-11-19:ed1399a8-3f5b-4aa4-a331-e76bc4a505a0</guid>
+	<link>http://blog.entchev.com/2012/11/19/new-brunswick-land-assessment-map.aspx?ref=rss</link>
+	<description>I have been itching to map something local. After briefly considering The New Brunswick Homicide Map, I was talked out of it by someone more sensible than me. So I present to you this New Brunswick Land Assessment Map in Google Maps.&lt;br /&gt;
+&lt;br /&gt;
+The map uses data from the &lt;a href=&quot;https://njgin.state.nj.us/NJ_NJGINExplorer/index.jsp&quot; target=&quot;_blank&quot;&gt;New Jersey Geographic Information Network&lt;/a&gt; (NJGIN). The parcel polygons are rendered based on a &quot;Score&quot; I derived from assessed land value normalized by parcel area. All 7,807 parcels were classified in six classes using the quantile method. The darker the shading, the higher the score.
+&lt;div&gt;&lt;br /&gt;
+&lt;/div&gt;
+&lt;div&gt;The map is far from perfect, and so is probably my method. One thing that surprises me is how big the variance is among properties within a single block, particularly in the downtown area.&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;br /&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+	<pubDate>Tue, 20 Nov 2012 00:33:37 +0000</pubDate>
+</item>
+<item>
+	<title>Galdos Systems: Web Services Make Hazard Simulations Useful</title>
+	<guid isPermaLink="false">http://www.galdosinc.com/?p=1278</guid>
+	<link>http://www.galdosinc.com/archives/1278</link>
+	<description>&lt;p&gt;The economic and human consequences of natural disasters are enormous. And due to global climate change, in part, they’re increasing dramatically.&lt;/p&gt;
+&lt;p&gt;It makes sense, therefore, to try and apply predictive simulations so people can better plan and prepare for these events if and when they occur. The effort isn’t to predict the event itself, but to try and predict its consequences.&lt;/p&gt;
+&lt;p&gt;In the United States, the Federal Emergency Management Agency (FEMA) created a multipurpose hazard modeling system (HAZUS) with the following objective: to predict the potential loss of life, financial cost and structural damage that could occur from an earthquake, major landslide, hurricane or flood.&lt;/p&gt;
+&lt;h2&gt;Different Goals&lt;/h2&gt;
+&lt;p&gt;Of course, running hazard-simulation models is quite different from emergency planners and responders using the results. Simulation modelers are technical people with specialized scientific knowledge with respect to hazard events, with specialization by type of event.&lt;/p&gt;
+&lt;div class=&quot;wp-caption aligncenter&quot; id=&quot;attachment_1279&quot; style=&quot;width: 510px;&quot;&gt;&lt;a href=&quot;http://www.galdosinc.com/wp-content/uploads/2012/11/MASAS-Client-in-ArcGIS-Viewer.jpg&quot;&gt;&lt;img alt=&quot;MASAS Client in ArcGIS Viewer&quot; class=&quot;size-full wp-image-1279&quot; height=&quot;299&quot; src=&quot;http://www.galdosinc.com/wp-content/uploads/2012/11/MASAS-Client-in-ArcGIS-Viewer.jpg&quot; title=&quot;MASAS Client in ArcGIS Viewer&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;A MASAS client in ArcGIS Viewer displays indicator layers.&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;The people who use the results have a different set of priorities and point of focus. Their concern is with the type of events they plan for.&lt;/p&gt;
+&lt;p&gt;“Is there an event that would kill more than 500 people and cost more than $2 billion in damage?” “How would that event’s impact be distributed?” “Which buildings would most likely suffer the greatest damage?” “Which bridges or roadways might be impaired?” The simulation modeler focuses on events, while the emergency planner focuses on probable consequences.&lt;/p&gt;
+&lt;h2&gt;Canada’s MASAS&lt;/h2&gt;
+&lt;p&gt;A recent project in Canada shows how these two worlds can be brought together in a practical manner using rapidly deployable Web-service technology. Canada has a nascent national Multi-Agency Situational Awareness System (MASAS), which now enables simulators to run their models, automatically extract indicators of interest and distribute those indicators to emergency planners through the MASAS network.&lt;/p&gt;
+&lt;p&gt;Of course, such information is voluminous, so a Web-based capability was needed to enable rapid querying and map visualization of simulation results. In addition, the results have a lifecycle that must be managed (e.g., results need to be verified before they’re released, may be found faulty after being in use, may be slated for revision, etc.).&lt;/p&gt;
+&lt;p&gt;The solution was quickly built on an open-standard Web-service platform that provides a set of standard features, many of which were used to meet the project’s requirements. An information model for simulation results was created and deployed, incorporating the event description and the various indicator parameters available to emergency planners.&lt;/p&gt;
+&lt;p&gt;Extraction and ingest of the indicator parameters was automated, a task made straightforward by a simple harvest plug-in that directly mapped extracted data into the model. No additional work was required for lifecycle management, because every object in the platform has that to begin with. Users only need to specify which lifecycle states to use and which state transitions to allow.&lt;/p&gt;
+&lt;h2&gt;From Model to Meaningful&lt;/h2&gt;
+&lt;p&gt;Information in the simulations was spatial in nature (e.g., location of bridges, water mains, etc.), and there was no problem in handling this, because the platform enables the capture of geometric properties in GML.&lt;/p&gt;
+&lt;p&gt;Out of the box, the platform provided the ability to perform ad hoc spatial, classification and property queries as well as use server-side stored queries, making event-consequences information simulated in the models easily accessible and searchable via the Web by emergency planners. The platform also made it easy to integrate existing mapping clients on which consequences could be displayed, including Google Earth, Google Maps and Esri’s ArcGIS.&lt;/p&gt;
+&lt;p&gt;The result is a system in which hazard-simulation models can be run and automatically indexed, and the information content can be made immediately available via the Internet in a visual and searchable form meaningful to emergency planners and responders.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This article was originally published on &lt;a href=&quot;http://www.geoplace.com/ME2/dirmod.asp?sid=&amp;amp;nm=&amp;amp;type=MultiPublishing&amp;amp;mod=PublishingTitles&amp;amp;mid=13B2F0D0AFA04476A2ACC02ED28A405F&amp;amp;tier=4&amp;amp;id=BF1FF6C1BFEC4E72A19CF536B2A0AC00&quot; target=&quot;_blank&quot; title=&quot;GeoPlace.com: Web Services Make Hazard Simulations Useful&quot;&gt;GeoPlace.com&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 22:52:07 +0000</pubDate>
+</item>
+<item>
+	<title>LiDAR News: Post Hurricane Irene Erosion Analysis Using LiDAR Data</title>
+	<guid isPermaLink="false">http://blog.lidarnews.com/?p=10268</guid>
+	<link>http://feedproxy.google.com/~r/InTheScan/~3/feRfROkAAZQ/post-hurricane-irene-erosion-analysis-using-lidar-data</link>
+	<description>Leslie John Sox forwarded this video link to a project that he recently completed involving the use of LiDAR and ArcGIS Python programming.  Continue reading →&lt;br /&gt;
+&lt;br /&gt;
+Click Title to Continue Reading...&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/InTheScan/~4/feRfROkAAZQ&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 21:18:10 +0000</pubDate>
+</item>
+<item>
+	<title>geoMusings: The Biggest News You May Have Missed…</title>
+	<guid isPermaLink="false">http://blog.geomusings.com/?p=2979</guid>
+	<link>http://blog.geomusings.com/2012/11/19/the-biggest-news-you-may-have-missed/</link>
+	<description>In case you missed it, this tweet floated across the Twitters last week: Blogged: TileMill Connect – Open Mxd Documents in @mapbox TileMill bit.ly/WbBOKW—   (@Arc2Earth) November 15, 2012 Yes, the team at Arc2Earth is apparently working on a new … &lt;a href=&quot;http://blog.geomusings.com/2012/11/19/the-biggest-news-you-may-have-missed/&quot;&gt;Continue reading &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://stats.wordpress.com/b.gif?host=blog.geomusings.com&amp;amp;blog=588413&amp;amp;post=2979&amp;amp;subd=geobabble&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 21:16:22 +0000</pubDate>
+</item>
+<item>
+	<title>Geo-preneur: Getting QGIS working on Homebrew</title>
+	<guid isPermaLink="true">http://blog.burhum.com/post/36080548777</guid>
+	<link>http://blog.burhum.com/post/36080548777</link>
+	<description>&lt;p&gt;Sometimes installing QGIS on Homebrew doesn’t succeed. If you are running into issues with it, most likely, it is related to PyQt not being found. To install QGIS, try this Homebrew magic incantation:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;brew remove pyqt
+brew install pyqt #verify everything works fine
+export PYTHONPATH=/usr/local/lib/python2.7/site-packages:$PYTHONPATH
+brew tap homebrew/science
+brew install qgis --with-grass --with-postgis
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Done. As @mweisman points out, &lt;a href=&quot;http://blog.burhum.com/post/34851795066/installing-gdal-ogr-with-filegdb-support-on-osx-with&quot;&gt;If you installed FileGDB previously&lt;/a&gt;, you will even get that &lt;a href=&quot;https://twitter.com/mweisman/status/269171660396036096&quot;&gt;driver picked up by your fresh QGIS build&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 19:52:56 +0000</pubDate>
+</item>
+<item>
+	<title>Mapperz - The Mapping News Blog: Firefox OS and Nokia Offline Maps</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-28924572.post-8564455703527658268</guid>
+	<link>http://feedproxy.google.com/~r/mapperz/~3/yshoBsoepxk/firefox-os-and-nokia-offline-maps.html</link>
+	<description>Firefox OS and Nokia Offline Maps
+
+  
+
+A nice discovery when using the the pre-release of Firefox OS.
+
+NOKIA OFFLINE MAPS
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Users can download Maps...&lt;br /&gt;
+&lt;br /&gt;
+Map and GIS News finding blog. With so many Maps and GIS sites online now it is hard to find the good from the not so good. This blog tries to cut the cream and provide you with the newest, fastest, cleanest and most user friendly maps that are available online. News has location and it is mapped.
+&lt;p&gt;&lt;a href=&quot;http://feedads.g.doubleclick.net/~a/04OTY1qiadIe-4KaW9KkviZe9hU/0/da&quot;&gt;&lt;img border=&quot;0&quot; ismap=&quot;true&quot; src=&quot;http://feedads.g.doubleclick.net/~a/04OTY1qiadIe-4KaW9KkviZe9hU/0/di&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://feedads.g.doubleclick.net/~a/04OTY1qiadIe-4KaW9KkviZe9hU/1/da&quot;&gt;&lt;img border=&quot;0&quot; ismap=&quot;true&quot; src=&quot;http://feedads.g.doubleclick.net/~a/04OTY1qiadIe-4KaW9KkviZe9hU/1/di&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;div class=&quot;feedflare&quot;&gt;
+&lt;a href=&quot;http://feeds.feedburner.com/~ff/mapperz?a=yshoBsoepxk:ifcYxwvbNuY:yIl2AUoC8zA&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://feeds.feedburner.com/~ff/mapperz?d=yIl2AUoC8zA&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/mapperz/~4/yshoBsoepxk&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 18:37:00 +0000</pubDate>
+	<author>noreply@blogger.com (Mapperz)</author>
+</item>
+<item>
+	<title>Between the Poles: The evolution of the open source software foundation</title>
+	<guid isPermaLink="false">tag:typepad.com,2003:post-6a00d83476d35153ef017c33beeb8a970b</guid>
+	<link>http://feedproxy.google.com/~r/typepad/zeissg/geospatial/~3/ZZwlSjphzM8/the-evolution-of-the-open-source-software-foundation.html</link>
+	<description>&lt;p&gt;
+&lt;a class=&quot;asset-img-link&quot; href=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef017d3dedf0bf970c-popup&quot; style=&quot;float: right;&quot;&gt;&lt;img alt=&quot;FSS Foundations&quot; class=&quot;asset  asset-image at-xid-6a00d83476d35153ef017d3dedf0bf970c&quot; src=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef017d3dedf0bf970c-320wi&quot; style=&quot;margin: 0px 0px 5px 5px;&quot; title=&quot;FSS Foundations&quot; /&gt;&lt;/a&gt;Steve Walli of the Outercurve Foundation has published a very perceptive &lt;a href=&quot;http://www.slideshare.net/stephenrwalli/the-rise-and-evolution-of-the-open-source-software-foundation&quot; target=&quot;_self&quot;&gt;discussion&lt;/a&gt; of why the phenomenon of the open source software foundation (neutral non-profit) has become so important in the free and open source software (FOSS) community.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Open source is the best software re-use strategy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Steve's fundamental premise is that liberally-licensed collaboratively developed software is the best re-use strategy.  There are a number of different ways to look at this, but the one that has stuck in my mind was the result of attending a military open source conference in Washington, DC some years ago.  The U.S. military, which is perhaps the biggest user of open source software in the world, uses FOSS because &lt;a href=&quot;http://geospatial.blogs.com/geospatial/2009/02/department-of-defense-launches-open-source-developers-site-forgemil.html&quot; target=&quot;_self&quot;&gt;they judge it to be more secure&lt;/a&gt; and to have fewer bugs than proprietary software all other things being equal.  The reason most often given for this is Eric Raymond's &quot;many eyeballs&quot; thesis that more people seeing code reduces bugs and security problems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Economic benefit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As I remember from the history of the development of the Apache foundation, there is often a very strong economic motivation for FOSS.  In the early days of the web, there was the opportunity for every major vendor, IBM, HP, Microsoft, Sun, Oracle, and others to develop their own http web server.  Instead IBM helped form the Apache Founation and then encouraged other major vendors to join which just about everyone did (with one important exception).   The major vendors jointly contributed to developing one web server based on the NCSA http server and found it much less expensive than if each vendor had developed its own web server.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intellectual property rights management is what FOSS foundations do&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Steve makes the case that the core capability of FOSS foundations is to manage IP - he refers to them as IP Management Machines.  He says that this was the primary motivation for the Free Software Foundation (FSF), Apache Software Foundation (AS
+&lt;a class=&quot;asset-img-link&quot; href=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef017d3def7c23970c-popup&quot; style=&quot;float: right;&quot;&gt;&lt;img alt=&quot;Eclipse contribution IP statement&quot; class=&quot;asset  asset-image at-xid-6a00d83476d35153ef017d3def7c23970c&quot; src=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef017d3def7c23970c-320wi&quot; style=&quot;margin: 0px 0px 5px 5px;&quot; title=&quot;Eclipse contribution IP statement&quot; /&gt;&lt;/a&gt;F), OSDL/Linux, and the Eclipse Foundation.  Corporations have more stringent software intellectual 
+property (IP) needs and. neutral non-profit FOSS foundations have proved to be a 
+solution to this problem, providing for the IP management needs of 
+corporations.  FOSS foundations remove the barriers to corporate engagement for FOSS projects.&lt;/p&gt;
+&lt;p&gt;
+For example, for all contrbutions to Eclipse projects, the contributor has to agree to a standard IP statement for every submission.  It also must be contributed through standard channels, either Bugzilla or Gerrit, either of which which provide a complete audit trail for any contribution.    &lt;/p&gt;
+&lt;p&gt;For large contributions (over 250 lines) or code from external projects, then a complete IP review is required.  This can take a  long time because the provenance of all the code is checked, the licences are checked, and the code is scanned for IP problems.  Th reason Eclipse insists that this soemwhat involved process be followed for all contributions is that it guarantees that all Eclipse code can be used legally for commercial purposes under the EPL.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;a class=&quot;asset-img-link&quot; href=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef017ee562e44e970d-popup&quot; style=&quot;float: right;&quot;&gt;&lt;img alt=&quot;LargestSoftwareProjects Henrik Ingo&quot; class=&quot;asset  asset-image at-xid-6a00d83476d35153ef017ee562e44e970d&quot; src=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef017ee562e44e970d-320wi&quot; style=&quot;margin: 0px 0px 5px 5px;&quot; title=&quot;LargestSoftwareProjects Henrik Ingo&quot; /&gt;&lt;/a&gt;Growing projects into mega projects&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Steve refers to Henrik Ingo's research which I &lt;a href=&quot;http://geospatial.blogs.com/geospatial/2012/10/the-worlds-largest-open-source-projects-are-governed-by-non-profit-foundations.html&quot; target=&quot;_self&quot;&gt;blogged &lt;/a&gt;about recently.  Henrik found that the largest software projects are governed by FOSS foundations.   He concluded that there appears to be a glass ceiling for single vendor projects prohibiting their growth from the Large category upwards.  Based on his research findings he recommends that companies who want their projects to become mega project should contribute these projects to a FOSS foundation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is a FOSS foundation ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; A FOSS foundation is a neutral (not dominated by one vendor) non-profit (but run as a business) organization that provides legal structures, business operations, and technical services to its members, most of whom are firms or individuals involved in some aspect of software development or as software users.   FOSS foundations are different from corporate open source projects like OpenSUSE, Fedora, JBoss, or MySQL in several important ways.  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;FOSS foundations are neutral which encourages participation.  &lt;/li&gt;
+&lt;li&gt;FOSS foundations put a lot of effort into managing IP openly and cleanly because clean IP encourages adoption among the user community.  &lt;/li&gt;
+&lt;li&gt;FOSS foundations encourage broad participation, something that it is hard for a corporate project to do.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;a class=&quot;asset-img-link&quot; href=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef017d3def7d85970c-popup&quot; style=&quot;float: right;&quot;&gt;&lt;img alt=&quot;Eclipse software contribution process&quot; class=&quot;asset  asset-image at-xid-6a00d83476d35153ef017d3def7d85970c&quot; src=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef017d3def7d85970c-320wi&quot; style=&quot;margin: 0px 0px 5px 5px;&quot; title=&quot;Eclipse software contribution process&quot; /&gt;&lt;/a&gt;FOSS foundations have many projects they are responsible for.  The Eclipse Foundation for example has 270 active projects.  FOSS foundations also provide technical services and infrastructure such
+ as source code repositories, build tools, test harnesses, code signing, bug tracking,  and so on.  &lt;/p&gt;
+&lt;p&gt;For example, the Eclipse foundation has implemented a very efficient process for contributors that minimizes for the contributor and the committer the time it take to submit the code, verify that it compiles and links correctly, conduct code reviews, run standard tests, and if all that succeeds actually submit the code to the main tree on Github.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Legal structures&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One of the most important services that a FOSS foundation provides is legal liability and risk management.  This includes providing and managing licenses for contributors and users, provenance tracking, and indemnification.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;a class=&quot;asset-img-link&quot; href=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef017d3def7efa970c-popup&quot; style=&quot;float: right;&quot;&gt;&lt;img alt=&quot;Eclipse meritocracy&quot; class=&quot;asset  asset-image at-xid-6a00d83476d35153ef017d3def7efa970c&quot; src=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef017d3def7efa970c-320wi&quot; style=&quot;margin: 0px 0px 5px 5px;&quot; title=&quot;Eclipse meritocracy&quot; /&gt;&lt;/a&gt;Strong communities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In my view one of the most important things that FOSS foundations provide is a governance structure that creates an architecture of participation.  The objective is inclusion not exclusion.  The governance structure makes it easy to join conversations and to participate in various ways based on merit.  It  also encourages and grows committers (developers who can commit code changes).  &lt;/p&gt;
+&lt;p&gt;At the Eclipse Foundation there are something like 6 million users, some of whom contribute to the Eclipse ecosystem in various ways,by configuring the IDE, extending in in various ways, developing and publishing plugins, integrating Eclipse in products, and at the highest level fixing problems and developing new modules for Eclipse project code itself.  There is a fascinating &lt;a href=&quot;http://www.youtube.com/watch?v=etIXLU1NwX0&amp;amp;feature=youtu.be&quot; target=&quot;_self&quot;&gt;video &lt;/a&gt;of a presentation on what it means to be a committer by a couple of Eclipse committers at a recent EclipseCON conference in Europe.&lt;/p&gt;
+&lt;p&gt;
+&lt;a class=&quot;asset-img-link&quot; href=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef017d3def8105970c-popup&quot; style=&quot;float: right;&quot;&gt;&lt;img alt=&quot;Eclipse development process transparent open diverse&quot; class=&quot;asset  asset-image at-xid-6a00d83476d35153ef017d3def8105970c&quot; src=&quot;http://geospatial.blogs.com/.a/6a00d83476d35153ef017d3def8105970c-320wi&quot; style=&quot;margin: 0px 0px 5px 5px;&quot; title=&quot;Eclipse development process transparent open diverse&quot; /&gt;&lt;/a&gt;One of the most important aspects of being an Eclipse participant is the Eclipse software development process which is part of the Eclipse governance structure.  &lt;/p&gt;
+&lt;p&gt;This development process is used by all Eclipse projects.  The key objectives of the Eclipse development process are transparency (all decisions, code, and discussions can be seen by everyone), openness (encouraging participation by making it easy to join discussions), and diversity (encouraging broad participation, encouraging as many firms and individuals as possible to particpate).&lt;/p&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 18:35:03 +0000</pubDate>
+</item>
+<item>
+	<title>AnyGeo: WOW! Avenza MAPublisher 9.1 Adds Export to HTML5 web maps</title>
+	<guid isPermaLink="false">http://blog.gisuser.com/?p=12076</guid>
+	<link>http://blog.gisuser.com/2012/11/19/wow-with-avenza-mapublisher-9-1-adds-export-to-html5-web-maps/</link>
+	<description>What do the City of Amsterdam, the USGS, and the City of Toronto have in common? Well, besides having awesome web sites, these are all clients and users of Avenza Systems’ MAPublisher software, a tool that enables them to author, … &lt;a href=&quot;http://blog.gisuser.com/2012/11/19/wow-with-avenza-mapublisher-9-1-adds-export-to-html5-web-maps/&quot;&gt;Continue reading &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 17:22:07 +0000</pubDate>
+</item>
+<item>
+	<title>GIS Lounge: Thanksgiving Maps and Geography</title>
+	<guid isPermaLink="false">http://gislounge.com/?p=2542</guid>
+	<link>http://gislounge.com/thanksgiving-maps/</link>
+	<description>&lt;p&gt;Want to know where your Thanksgiving food comes from?  Listed here are a few endeavors to map out Thanksgiving. Linda Zellmer, Government Information &amp;amp; Data Services Librarian at Western Illinois University, has created a series of choropleth maps showing production by state of common food items found on the table at Thanksgiving for the years [...]&lt;/p&gt;&lt;p&gt;The post &lt;a href=&quot;http://gislounge.com/thanksgiving-maps/&quot;&gt;Thanksgiving Maps and Geography&lt;/a&gt; appeared first on &lt;a href=&quot;http://gislounge.com&quot;&gt;GIS Lounge&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 16:50:31 +0000</pubDate>
+</item>
+<item>
+	<title>thinkwhere: Leaving GeoIQ/Esri. Retrospective and future plans.</title>
+	<guid isPermaLink="false">http://thinkwhere.wordpress.com/?p=567</guid>
+	<link>http://thinkwhere.wordpress.com/2012/11/19/leaving-geoiqesri-retrospective-and-future-plans/</link>
+	<description>&lt;p&gt;I’ve been with GeoIQ (the folks behind &lt;a href=&quot;http://geocommons.com&quot; target=&quot;_blank&quot;&gt;GeoCommons&lt;/a&gt;) since &lt;a href=&quot;http://thinkwhere.wordpress.com/2010/08/26/with-geocommons/&quot;&gt;the Summer of 2010&lt;/a&gt;, and I’ve loved it. Earlier this year &lt;a href=&quot;http://www.esri.com/news/releases/12-3qtr/location-analytics-developer-geoiq-joins-esri.html&quot;&gt;GeoIQ joined with Esri&lt;/a&gt; and we were hugely excited to &lt;a href=&quot;http://blog.geoiq.com/2012/07/10/building-from-the-inside/&quot; target=&quot;_blank&quot;&gt;change things&lt;/a&gt; from the inside and coming up with &lt;a href=&quot;http://blogs.esri.com/esri/arcgis/2012/08/22/dc-development-center/&quot; target=&quot;_blank&quot;&gt;plans for the new Esri DC Dev team.&lt;/a&gt;. However, that’s all behind me now, alas, as it was time to move on. I have left GeoIQ/Esri to be a freelancer and to join the Topomancy coop. This post will take a quick look back at time well spent, and will touch upon what I will be doing in the future.&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;more-567&quot;&gt;&lt;/span&gt;The main release we worked towards initially was coined as “GeoCommons 2.0″ – it was released around 10 months after I joined, and included a whole load of stuff. I blogged about it here: &lt;a href=&quot;http://thinkwhere.wordpress.com/2011/06/06/some-stuff-ive-been-working-on-with-new-geocommons-2-0/&quot; target=&quot;_blank&quot;&gt;Some Stuff I’ve Been Working on in GeoCommons 2.0&lt;/a&gt;. Other blog posts also showed how to use the GeoIQ API with &lt;a href=&quot;http://thinkwhere.wordpress.com/2011/06/26/geocommons-geojson-in-openlayers/&quot; target=&quot;_blank&quot;&gt; OpenLayers&lt;/a&gt;, &lt;a href=&quot;http://thinkwhere.wordpress.com/2011/08/02/pubs-in-england-how-to-do-it-with-polymaps-and-geocommons-filters/&quot; target=&quot;_blank&quot;&gt;Polymaps&lt;/a&gt;, and &lt;a href=&quot;http://developer.geoiq.com/blog/2011/10/31/leaflet-geocommons-json/&quot; target=&quot;_blank&quot;&gt;Leaflet&lt;/a&gt;, and about &lt;a href=&quot;http://developer.geoiq.com/blog/2011/06/15/geos-library-for-spatial-magic/&quot; target=&quot;_blank&quot;&gt;using GEOS with Ruby&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here then, in no particular order is a quick list of stuff.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://oceanids.grida.no/geoiq.html&quot;&gt;OCEANIDS&lt;/a&gt; - A  multitenant GeoIQ instance. “GRID-Arendal’s Ocean Commons for Environmental and Natural resources Information and Data Sharing system .. an interdisciplinary and multi-thematic geospatial and metadata portal of public marine scientific data and information. “&lt;/li&gt;
+&lt;li&gt;Created AMQP. RabbitMQ and Resque solutions for background worker and task management&lt;/li&gt;
+&lt;li&gt;Added WMS and Tile support for adding new datasources.&lt;/li&gt;
+&lt;li&gt;Added spatial query to the feature API – (e.g., getting features within a polygon)&lt;/li&gt;
+&lt;li&gt;Created a whole load of &lt;a href=&quot;http://developer.geoiq.com/blog/2011/06/15/geos-library-for-spatial-magic/&quot; target=&quot;_blank&quot;&gt;analyses methods,&lt;/a&gt; including some of the usual suspects like intersection, buffer, clip, simplify.&lt;/li&gt;
+&lt;li&gt;Developed a Ruby API Wrapper library for the GeoIQ API&lt;/li&gt;
+&lt;li&gt;Worked on the GeoCommons &lt;a href=&quot;https://github.com/geocommons/geocoder&quot; target=&quot;_blank&quot;&gt;open source geocoder&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Worked on filter user interface for map and data views&lt;/li&gt;
+&lt;li&gt;Added OAuth authentication to the system and API Keys for developers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More important than the work were the people I worked with – hugely talented enthusiastic and smart developers, designers and all round human beings – You can get rid of the code if you like, but I’ll miss working with these folks the most!&lt;/p&gt;
+&lt;h2&gt;“List of Interesting Things to Do”&lt;/h2&gt;
+&lt;p&gt;Generally the world of geo and OSM in particular has grown up in the last 3 years – there are now hundreds more possibilities for paid work, and more opportunities abound. My “List of Interesting Projects” stored in my brain was getting longer as time went on. So, I wanted to ride this wave, work on some exciting stuff, and have a break from working full time.&lt;/p&gt;
+&lt;p&gt;As a freelancer I’m working on some open source geo stuff and hope to spend more time volunteering for HOT and with OSM in general.   I’ll also be tackling that long list of interesting projects to do! One of those projects is actually a time travel conference, so watch this space next year.&lt;/p&gt;
+&lt;p&gt;I’ll also be part of a cooperative company called Topomancy LLC, with Shekhar Krisnan and Schuyler Erle – and together we will continue (previously was called Entropy Free) our work with the New York Public Library and the Library of Congress, and a number of other orgs on open source geo.&lt;/p&gt;
+&lt;p&gt;Really enjoyed my time with&lt;a href=&quot;http://blogs.esri.com/esri/arcgis/2012/08/22/dc-development-center/&quot; target=&quot;_blank&quot;&gt; GeoIQ/Esri DC Dev&lt;/a&gt; and have learnt loads.  I wish them well for the future and will keep an eye on their progress within Esri – I know they will be doing awesome stuff!&lt;/p&gt;
+&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/thinkwhere.wordpress.com/567/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/thinkwhere.wordpress.com/567/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://stats.wordpress.com/b.gif?host=thinkwhere.wordpress.com&amp;amp;blog=303744&amp;amp;post=567&amp;amp;subd=thinkwhere&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 16:14:14 +0000</pubDate>
+</item>
+<item>
+	<title>Fuzzy Tolerance: Screencast #19: GIS Day Ignite Talk</title>
+	<guid isPermaLink="false">http://fuzzytolerance.info/?p=2297</guid>
+	<link>http://feedproxy.google.com/~r/FuzzyTolerance/~3/wCRX6Wpznts/</link>
+	<description>&lt;div class=&quot;textcenter&quot;&gt;
+
+&lt;/div&gt;
+&lt;h3&gt;Resources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mapbrief.com/2012/08/01/how-the-public-actually-uses-local-government-web-maps-metrics-from-denver/&quot;&gt;How the Public Actually Uses Local Government Web Maps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Installing LibreOffice Presenter Console on Ubuntu 1210:&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;pre class=&quot;crayon-plain-tag&quot;&gt;sudo apt-get install libreoffice-presenter-console&lt;/pre&gt;&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://feedads.g.doubleclick.net/~a/JXP9rWxCToa591lbfaaV8RjUV2w/0/da&quot;&gt;&lt;img border=&quot;0&quot; ismap=&quot;true&quot; src=&quot;http://feedads.g.doubleclick.net/~a/JXP9rWxCToa591lbfaaV8RjUV2w/0/di&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://feedads.g.doubleclick.net/~a/JXP9rWxCToa591lbfaaV8RjUV2w/1/da&quot;&gt;&lt;img border=&quot;0&quot; ismap=&quot;true&quot; src=&quot;http://feedads.g.doubleclick.net/~a/JXP9rWxCToa591lbfaaV8RjUV2w/1/di&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/FuzzyTolerance/~4/wCRX6Wpznts&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 16:04:45 +0000</pubDate>
+</item>
+<item>
+	<title>The Map Guy(de): Announcing: MapGuide Maestro 5.0 beta 5 and 4.0.4 maintenance</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-1951542926024108564.post-4529677821531216191</guid>
+	<link>http://themapguyde.blogspot.com/2012/11/announcing-mapguide-maestro-50-beta-5.html</link>
+	<description>Here's another beta for Maestro 5.0 and a matching 4.0.4 maintenance release.&lt;br /&gt;&lt;br /&gt;Since 4.0.4 is a maintenance release there isn't much to talk about other than there's bug fixes :)&lt;br /&gt;&lt;br /&gt;So let's talk about the 5.0 beta instead. Here's what's new.&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-size: x-large;&quot;&gt;More SharpDevelop goodness&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://themapguyde.blogspot.com.au/2012/10/sharpdeveloping-all-things.html&quot;&gt;As already mentioned&lt;/a&gt;, we've expanded our use of &lt;a href=&quot;http://www.icsharpcode.net/opensource/sd/&quot;&gt;SharpDevelop&lt;/a&gt; code and components to give us improved versions of existing functionality:&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;A smarter, more responsive IronPython REPL&lt;/li&gt;&lt;li&gt;XML folding support for the Generic XML editor&lt;/li&gt;&lt;li&gt;FDO Expression Editor syntax highlighting&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Sadly, Mono did not want to cooperate with us despite our code (and the SharpDevelop version we're using) sticking to the Mono compatible subset of the Base Class Library + Windows Forms. So the zip distribution (which you would install for Mono) does not include the IronPython REPL functionality and uses the existing FDO Expression Editor implementation on Mono.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-large;&quot;&gt;Local resource previews&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;As part of &lt;a href=&quot;http://themapguyde.blogspot.com.au/2012/11/eating-your-own-dogfood.html&quot;&gt;eating our own dogfood&lt;/a&gt;, previews for certain resources will now use our own built-in map viewer component. The main benefits of using a locally-based previewing mechanism that:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;It is generally snappier as we don't have to spin up an external web browser to show the preview&lt;/li&gt;&lt;li&gt;It is smarter about the initial view if we're previewing layers where the scale range is not 0 - Infinity&lt;/li&gt;&lt;li&gt;Our preview UI has more niceties over the browser-based previewing mechanism&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;If this feature is not working for you or you prefer the old way of previewing things, you can turn this option off in the Application preferences.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-large;&quot;&gt;Updated SDK&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;This is the first release in the Maestro 5.0 series to include a matching SDK. This includes some new samples&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;A sample demonstrating the &lt;a href=&quot;http://themapguyde.blogspot.com.au/2012/06/if-this-isnt-mg-desktop-then-what-is-it.html&quot;&gt;new Maestro Map Viewer component&lt;/a&gt;&lt;/li&gt;&lt;li&gt;A basic sample Add-In demonstrating how to integrate with the Maestro application&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;All these samples have been migrated to .net Framework 4.0 / VS 2010 (You can use the &lt;a href=&quot;http://www.microsoft.com/visualstudio/eng/products/visual-studio-express-products&quot;&gt;VS 2012 express editions&lt;/a&gt; as well if you so choose). You cannot use the Maestro 5.0 API in a version of the .net Framework that is older than 4.0.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;http://themapguyde.blogspot.com.au/2012/02/roadmap-update-for-maestro.html&quot;&gt;As I hinted to&lt;/a&gt; when I started on the road to Maestro 5.0, the new SDK also contains a build tool to &quot;roll your own&quot; LocalNative provider, which lets you use the MaestroAPI over the official MapGuide API. This is a much more convenient way than me having to build a LocalNative provider for n specific versions of MapGuide&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;http://2.bp.blogspot.com/-I0KMPJ9UqhU/UKpBeKSf9BI/AAAAAAAABWY/RTmLC1bXZe4/s1600/Capture.PNG&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;400&quot; src=&quot;http://2.bp.blogspot.com/-I0KMPJ9UqhU/UKpBeKSf9BI/AAAAAAAABWY/RTmLC1bXZe4/s400/Capture.PNG&quot; width=&quot;391&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Simply point to where your official MapGuide .net API assemblies are and hit &lt;b&gt;Build&lt;/b&gt; to build your LocalNative provider. Then you can use this provider by registering the dll in the ConnectionProviders.xml of your MaestroAPI application.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Please Note&lt;/b&gt;: Because this is still a beta, the Maestro APIs are not set in stone. APIs may still change from now until the final release.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-large;&quot;&gt;Other cool stuff&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;We've tweaked the WMS Configuration UI to better handle some of the more obscure WMS servers I've encountered in my journey thus far.&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;You can now edit the FDO logical class name/description&lt;/li&gt;&lt;li&gt;You can also swap the class name/description individually or in a batch. This is a convenience function for some WMS Servers where the layer names actually end as the FDO logical class description instead of class name when processed by the WMS FDO provider.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;http://3.bp.blogspot.com/-WNIjF0o4lTg/UKpDmZSuDDI/AAAAAAAABWg/878umhvxL9g/s1600/Capture.PNG&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;332&quot; src=&quot;http://3.bp.blogspot.com/-WNIjF0o4lTg/UKpDmZSuDDI/AAAAAAAABWg/878umhvxL9g/s400/Capture.PNG&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;We've also made the FDO class name encoding/decoding in Maestro to behave more like its FDO counterpart &lt;a href=&quot;http://osgeo-org.1560.n6.nabble.com/Cannot-Create-Layers-From-Feature-Sources-td5003380.html&quot;&gt;so that problems like this&lt;/a&gt; should no longer happen anymore. We've backed this up with the same test suite and data used to exercise the name encoding/decoding in FDO proper. Basically, you shouldn't get strange looking FDO class names anymore. They should get properly encoded and decoded.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;When deleting a resource with dependent resources, we're now nice enough to tell you what they are&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;http://1.bp.blogspot.com/-MVqAY17ClSo/UKo64v9P8mI/AAAAAAAABVQ/P6P6fnOGtbc/s1600/Capture.PNG&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;265&quot; src=&quot;http://1.bp.blogspot.com/-MVqAY17ClSo/UKo64v9P8mI/AAAAAAAABVQ/P6P6fnOGtbc/s400/Capture.PNG&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;For folders, we just give you a catch-all question which may or may not be true, simply because we don't want to waste CPU cycles computing affected references if we happen to be trashing a big folder.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;http://2.bp.blogspot.com/-M3UAd4qHBKo/UKo7KjY-uEI/AAAAAAAABVY/_Gci0DZFfK0/s1600/Capture.PNG&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;132&quot; src=&quot;http://2.bp.blogspot.com/-M3UAd4qHBKo/UKo7KjY-uEI/AAAAAAAABVY/_Gci0DZFfK0/s400/Capture.PNG&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;There is also a new context menu option for selected resources that allows you to compile a full dependency list for a given resource&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;http://2.bp.blogspot.com/-4AlF8VPcdVk/UKo7_h23InI/AAAAAAAABVo/rhgHF47XnIA/s1600/Capture.PNG&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;320&quot; src=&quot;http://2.bp.blogspot.com/-4AlF8VPcdVk/UKo7_h23InI/AAAAAAAABVo/rhgHF47XnIA/s320/Capture.PNG&quot; width=&quot;318&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;This produces a list of resources that the selected resource either directly or indirectly depends on, which can be saved to a text file&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;http://3.bp.blogspot.com/-TjYAqrwHUYM/UKo8aUiXTEI/AAAAAAAABVw/61Wwdw8z9hY/s1600/Capture.PNG&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;400&quot; src=&quot;http://3.bp.blogspot.com/-TjYAqrwHUYM/UKo8aUiXTEI/AAAAAAAABVw/61Wwdw8z9hY/s400/Capture.PNG&quot; width=&quot;393&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;This feature combines nicely with an improvement to the Package builder to allow packaging an explicit list of resource ids instead of a particular folder. Because sometimes, you just want to package a specific resource and everything it depends on, instead of a particular folder which may then package a whole bunch of other junk which you don't particularly want.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;http://1.bp.blogspot.com/-SZn6a8JrxiY/UKo89xq_GbI/AAAAAAAABV4/BWa6zxifFHc/s1600/Capture.PNG&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;400&quot; src=&quot;http://1.bp.blogspot.com/-SZn6a8JrxiY/UKo89xq_GbI/AAAAAAAABV4/BWa6zxifFHc/s400/Capture.PNG&quot; width=&quot;381&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Note that &lt;a href=&quot;http://themapguyde.blogspot.com.au/2012/07/note-about-maestros-package-builder-and.html&quot;&gt;Maestro-specific packaging restrictions&lt;/a&gt; still apply.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;On the theming front, &lt;a href=&quot;http://colorbrewer2.org/&quot;&gt;ColorBrewer&lt;/a&gt; color ramps can now be reversed if you so desire.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;http://3.bp.blogspot.com/-_gDx5pGj2Qs/UKo90MxYI_I/AAAAAAAABWA/HTdHJ5u-utw/s1600/Capture.PNG&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;400&quot; src=&quot;http://3.bp.blogspot.com/-_gDx5pGj2Qs/UKo90MxYI_I/AAAAAAAABWA/HTdHJ5u-utw/s400/Capture.PNG&quot; width=&quot;342&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;We've improved your ability to &lt;a href=&quot;http://themapguyde.blogspot.com.au/2011/12/mapguide-maestro.html&quot;&gt;rapidly translate Web Layout and Flexible Layout documents&lt;/a&gt;, but previewing such documents (or any browser-based preview actually) in the AJAX/Fusion viewer will still default to using the &lt;b&gt;en&lt;/b&gt; locale. You can now choose what locale that browser-based previews will default to in the Application preferences.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;http://1.bp.blogspot.com/-NUby0zHZm5k/UKo-osYMdsI/AAAAAAAABWI/6tiJjIyS26U/s1600/Capture.PNG&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;296&quot; src=&quot;http://1.bp.blogspot.com/-NUby0zHZm5k/UKo-osYMdsI/AAAAAAAABWI/6tiJjIyS26U/s400/Capture.PNG&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;This has the effect of basically tacking a &lt;b&gt;locale=your_selected_locale&lt;/b&gt; to whatever preview URLs you launch from Maestro&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;http://4.bp.blogspot.com/-T8KzJW548ec/UKo_MBg2lgI/AAAAAAAABWQ/k2g98WSqSPw/s1600/Capture.PNG&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;92&quot; src=&quot;http://4.bp.blogspot.com/-T8KzJW548ec/UKo_MBg2lgI/AAAAAAAABWQ/k2g98WSqSPw/s400/Capture.PNG&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;So with that all said and done ... Go forth and &lt;a href=&quot;http://trac.osgeo.org/mapguide/wiki/maestro/Downloads&quot;&gt;download!&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;blogger-post-footer&quot;&gt;&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://blogger.googleusercontent.com/tracker/1951542926024108564-4529677821531216191?l=themapguyde.blogspot.com&quot; width=&quot;1&quot; /&gt;&lt;/div&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 15:13:21 +0000</pubDate>
+	<author>noreply@blogger.com (Jackie Ng)</author>
+</item>
+<item>
+	<title>AnyGeo: Amazing Gesture Control Technology from Leap Motion</title>
+	<guid isPermaLink="false">http://blog.gisuser.com/?p=12074</guid>
+	<link>http://blog.gisuser.com/2012/11/19/amazing-gesture-control-technology-from-leap-motion/</link>
+	<description>Imaging using your Mac with iPad-like touch gesture… In this video from The Verge David Pierce talks with Leap Motion CTO David Holz and gets a first look at the company’s next generation 3D motion-sensing device – some amazing technology … &lt;a href=&quot;http://blog.gisuser.com/2012/11/19/amazing-gesture-control-technology-from-leap-motion/&quot;&gt;Continue reading &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 14:51:32 +0000</pubDate>
+</item>
+<item>
+	<title>Geospatial Science and Technology Blog: Nov 30: Brown Bag: International Charter on Space and Natural Disasters</title>
+	<guid isPermaLink="false">http://geodatapolicy.wordpress.com/?p=4550</guid>
+	<link>http://geodatapolicy.wordpress.com/2012/11/19/nov-30-brown-bag-international-charter-on-space-and-natural-disasters/</link>
+	<description>Joanne Irene Gabrynowicz, Director, National Center for Remote Sensing, Air and Space Law, University of Mississippi School of Law and Research Professor of Law, will discuss the Charter on Cooperation to Achieve the Coordinated Use of Space Facilities in the Event of Natural or Technological Disasters (Disasters Charter), which provides for the voluntary sharing of satellite imagery in the event [...]&lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://stats.wordpress.com/b.gif?host=geodatapolicy.wordpress.com&amp;amp;blog=3734767&amp;amp;post=4550&amp;amp;subd=geodatapolicy&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 14:22:03 +0000</pubDate>
+</item>
+<item>
+	<title>GeoSolutions' Blog: GeoSolutions' Presentations from the GFOSS Day 2012</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-5176900881057973693.post-3145470537565017818</guid>
+	<link>http://geo-solutions.blogspot.com/2012/11/geosolutions-presentations-from-gfoss.html</link>
+	<description>Dear All,&lt;br /&gt;I am posting here all the presentation we gave at the GFOSS Day 2012 event in Turin about &lt;a href=&quot;http://mapstore.geo-solutions.it/&quot;&gt;&lt;b&gt;MapStore&lt;/b&gt;&lt;/a&gt;, &lt;b&gt;GeoServer &lt;/b&gt;and &lt;b&gt;GeoNetwork &lt;/b&gt;so that you can find them easily. Enjoy!&lt;br /&gt;&lt;br /&gt;  &lt;br /&gt;&lt;div style=&quot;margin-bottom: 5px;&quot;&gt;&lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/geosolutions/gfoss-day-2012-geonetwork-presentation&quot; target=&quot;_blank&quot; title=&quot;GFOSS DAY 2012 GeoNetwork Presentation&quot;&gt;GFOSS DAY 2012 GeoNetwork Presentation&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/geosolutions&quot; target=&quot;_blank&quot;&gt;GeoSolutions&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;br /&gt;  &lt;br /&gt;&lt;div style=&quot;margin-bottom: 5px;&quot;&gt;&lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/geosolutions/gfoss-day-2012-mapstore-presentation&quot; target=&quot;_blank&quot; title=&quot;GFOSS Day 2012 MapStore Presentation&quot;&gt;GFOSS Day 2012 MapStore Presentation&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/geosolutions&quot; target=&quot;_blank&quot;&gt;GeoSolutions&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;br /&gt;  &lt;br /&gt;&lt;div style=&quot;margin-bottom: 5px;&quot;&gt;&lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/geosolutions/gfoss-day-2012-geoserver-presentation&quot; target=&quot;_blank&quot; title=&quot;GFOSS Day 2012 GeoServer Presentation&quot;&gt;GFOSS Day 2012 GeoServer Presentation&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/geosolutions&quot; target=&quot;_blank&quot;&gt;GeoSolutions&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;br /&gt;&lt;div&gt;The &lt;a href=&quot;http://www.geo-solutions.it/&quot;&gt;&lt;b&gt;GeoSolutions&lt;/b&gt;&lt;/a&gt; team,&lt;br /&gt;&lt;div&gt;&lt;a href=&quot;http://www.geo-solutions.it/&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://3.bp.blogspot.com/-ReUs6odFoFM/TWfecZ5Wl7I/AAAAAAAAAPE/MeqQ2XYs73I/s1600/geosolutions-logo.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;blogger-post-footer&quot;&gt;&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://blogger.googleusercontent.com/tracker/5176900881057973693-3145470537565017818?l=geo-solutions.blogspot.com&quot; width=&quot;1&quot; /&gt;&lt;/div&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 12:44:38 +0000</pubDate>
+	<author>noreply@blogger.com (Simone Giannecchini)</author>
+</item>
+<item>
+	<title>All Points Blog: Thomson Reuters Getting More Geographic</title>
+	<guid isPermaLink="true">http://apb.directionsmag.com/entry/thomson-reuters-getting-more-geographic/292018</guid>
+	<link>http://apb.directionsmag.com/entry/thomson-reuters-getting-more-geographic/292018</link>
+	<description>Most of us think of anything with Reuters as having to do with the news media. But, Thomson, with which it merged in 2007, is basically a data company. That makes Thompson Reuters a data mining company, one that announced a new geo product last week.
+
+	The new tool that allows... &lt;a href=&quot;http://apb.directionsmag.com/entry/thomson-reuters-getting-more-geographic/292018&quot;&gt;Continue reading&lt;/a&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 12:34:17 +0000</pubDate>
+</item>
+<item>
+	<title>All Points Blog: Google’s New Augmented Reality/LBS Game: Ingress</title>
+	<guid isPermaLink="true">http://apb.directionsmag.com/entry/googles-new-augmented-reality-lbs-game-ingress/291651</guid>
+	<link>http://apb.directionsmag.com/entry/googles-new-augmented-reality-lbs-game-ingress/291651</link>
+	<description>Yes, I know, Ingres is a database once...but with two &quot;s&quot;s it's a game (one you need an invitation to, apparently). It's a game I don't really understand, but also a game for which I don't believe I'm the target market. Why? Well, here are some descriptions of it from John Henke, once... &lt;a href=&quot;http://apb.directionsmag.com/entry/googles-new-augmented-reality-lbs-game-ingress/291651&quot;&gt;Continue reading&lt;/a&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 09:56:30 +0000</pubDate>
+</item>
+<item>
+	<title>All Points Blog: GISP Mapping Contest Winners and other GIS Contest News</title>
+	<guid isPermaLink="true">http://apb.directionsmag.com/entry/gisp-mapping-contest-winners-and-other-gis-contest-news/290996</guid>
+	<link>http://apb.directionsmag.com/entry/gisp-mapping-contest-winners-and-other-gis-contest-news/290996</link>
+	<description>GISCI held its 2nd Annual Poster Contest over the past many months. The challenge: map the GISPs! Here are the winners.
+
+	
+		
+			1st Place – Brian Greer (http://www.gisci.org/Contest2012/Finalists/pdfstorage/14-GISP_Poster.pdf)
+		
+			2nd Place – Kyle Schaper... &lt;a href=&quot;http://apb.directionsmag.com/entry/gisp-mapping-contest-winners-and-other-gis-contest-news/290996&quot;&gt;Continue reading&lt;/a&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 09:32:47 +0000</pubDate>
+</item>
+<item>
+	<title>thematic mapping blog: How to minify GeoJSON files?</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-4741970181714760187.post-3204523538763841901</guid>
+	<link>http://feedproxy.google.com/~r/thematicmapping/~3/CwvY_zsuZqc/how-to-minify-geojson-files.html</link>
+	<description>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot;&gt;
+You can't do web mapping these days without knowing your &lt;a href=&quot;http://www.geojson.org/geojson-spec.html&quot;&gt;GeoJSON&lt;/a&gt;. It's the vector format of choice among popular mapping libraries like &lt;a href=&quot;http://leafletjs.com/&quot;&gt;Leaflet&lt;/a&gt;, &lt;a href=&quot;http://d3js.org/&quot;&gt;D3.js&lt;/a&gt; and &lt;a href=&quot;http://polymaps.org/&quot;&gt;Polymaps&lt;/a&gt;. Size matters on the web, especially if you want to distribute complex geometries, like the world's countries. The challenge is even bigger if you want to target mobile users - or support web browsers with poor vector handling (IE &amp;lt; 9). This blog post will show you how to minify your GeoJSON files before sending them over the wire.&lt;br /&gt;
+&lt;br /&gt;
+The first thing you should do is to generalize your vectors so they don't contain more detail than you need. In &lt;a href=&quot;http://blog.thematicmapping.org/2012/10/mapping-regions-of-new-zealand-with.html&quot;&gt;a previous blog post&lt;/a&gt;, I was able to remove 90% of the coordinates without loosing to much detail for map scale I wanted to use. This will of course have a great effect on the file size.&lt;br /&gt;
+&lt;br /&gt;
+Today, I'm going to use country borders from the &lt;a href=&quot;http://www.naturalearthdata.com/&quot;&gt;Natural Earth dataset&lt;/a&gt;. These datasets are already generalized for different scales (1:10m, 1:50m, and 1:110 million), so I'll use them as they are. The 1:110m (small scale) and 1:50m (medium scale) shapefiles will cover the needs for the thematic world maps I plan to make:&lt;br /&gt;
+&lt;ul style=&quot;text-align: left;&quot;&gt;
+&lt;li&gt; &lt;a href=&quot;http://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/&quot;&gt;110m-admin-0-countries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;http://www.naturalearthdata.com/downloads/50m-cultural-vectors/50m-admin-0-countries-2/&quot;&gt;50m-admin-0-countries&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;table align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://2.bp.blogspot.com/-wSUWdr3uFMU/UKktQnEPTdI/AAAAAAAAKsA/2oMsMzqsk-o/s1600/borders.png&quot; style=&quot;margin-left: auto; margin-right: auto;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;399&quot; src=&quot;http://2.bp.blogspot.com/-wSUWdr3uFMU/UKktQnEPTdI/AAAAAAAAKsA/2oMsMzqsk-o/s640/borders.png&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;text-align: center;&quot;&gt;The 110m and 50m country polygons shown in QGIS. &lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;br /&gt;
+Let's open the datasets in &lt;a href=&quot;http://www.qgis.org/&quot;&gt;QGIS&lt;/a&gt;. If you look at the attribute table you'll see that each dataset contains 63 attributes, which makes them very versatile. For your web maps, you probably need just a few of the attributes, and you should remove the ones you don't need. I'm keeping the country name and the &lt;a href=&quot;http://en.wikipedia.org/wiki/ISO_3166-1&quot;&gt;ISO 3166-1 country codes&lt;/a&gt; (alpha-2, alpha-3, and numeric), which can be used to link country geometries to statistical data.  &lt;br /&gt;
+&lt;br /&gt;
+&lt;table align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://4.bp.blogspot.com/-Cy7bX18arFo/UKkwgX9qG0I/AAAAAAAAKs0/02YalI0knjI/s1600/attributes.png&quot; style=&quot;margin-left: auto; margin-right: auto;&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://4.bp.blogspot.com/-Cy7bX18arFo/UKkwgX9qG0I/AAAAAAAAKs0/02YalI0knjI/s1600/attributes.png&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;text-align: center;&quot;&gt;Only keep the attributes you need.&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;br /&gt;
+Next, we can convert the shapefiles to GeoJSON with &lt;a href=&quot;http://www.gdal.org/ogr2ogr.html&quot;&gt;ogr2ogr&lt;/a&gt;:&lt;br /&gt;
+&lt;br /&gt;
+&lt;span&gt;ogr2ogr -f &quot;GeoJSON&quot; -lco COORDINATE_PRECISION=1 ne_110m_admin_0_countries.json ne_110m_admin_0_countries.shp &lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span&gt;ogr2ogr -f &quot;GeoJSON&quot; -lco COORDINATE_PRECISION=2 ne_50m_admin_0_countries.json ne_50m_admin_0_countries.shp&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+The important thing is that I'm only keeping one decimal (coordinate precision) for the 110m dataset, and two decimals for the 50m dataset, which is sufficient for my map scales. This will reduce the size of the GeoJSON files by more than half. The size of the 110m GeoJSON is now 207 kB and the 50m version is 1,897 kB. But we can do better.&lt;br /&gt;
+&lt;br /&gt;
+The files contains a lot of whitespace, which is waste of space. I planned to use &lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text&lt;/a&gt; to remove the whitespace, but it were &lt;a href=&quot;http://sublimetext.userecho.com/topic/27988-better-handling-of-huge-files/&quot;&gt;not able&lt;/a&gt; to handle the 50m GeoJSON file, so I switched to &lt;a href=&quot;http://notepad-plus-plus.org/&quot;&gt;Notepad++&lt;/a&gt;. I used these &lt;a href=&quot;http://en.wikipedia.org/wiki/Regular_expression&quot;&gt;regular expressions&lt;/a&gt;:&lt;br /&gt;
+&lt;br /&gt;
+Find: &quot;&lt;span&gt;([^a-z.]) &lt;/span&gt;&quot;&lt;br /&gt;
+Replace: &quot;&lt;span&gt;$1&lt;/span&gt;&quot;&lt;br /&gt;
+This will remove all whitespace which is not succeeding a letter or a dot, which are present in country names.&lt;br /&gt;
+&lt;br /&gt;
+Find: &quot;&lt;span&gt;\n,&lt;/span&gt;&quot;&lt;br /&gt;
+Replace: &quot;&lt;span&gt;,&lt;/span&gt;&quot; &lt;br /&gt;
+Remove line breaks (keeping some for readability).&lt;br /&gt;
+&lt;br /&gt;
+Find: &quot;&lt;span&gt;\.0([,\]])&lt;/span&gt;&quot;&lt;br /&gt;
+Replace: &quot;&lt;span&gt;$1&lt;/span&gt;&quot;&lt;br /&gt;
+Remove trailing zeros.&lt;br /&gt;
+&lt;br /&gt;
+This will reduce the file size of the 110m GeoJSON from 207 to 156 kB, without loosing any data quality. More than 400k of whitespace characters was removed from the 50m GeoJSON file, reducing the file size from 1,897 to 1,481 kB.&lt;br /&gt;
+&lt;br /&gt;
+If your web server is supporting &lt;a href=&quot;http://betterexplained.com/articles/how-to-optimize-your-site-with-gzip-compression/&quot;&gt;gzipping on-the-fly&lt;/a&gt;, the 110m GeoJSON will end up being 45 kB and the 50m version will be 430 kB. Not bad!&lt;br /&gt;
+&lt;br /&gt;
+And if this is too much work, you can always &lt;a href=&quot;http://thematicmapping.org/downloads/ne-v2.0.0-countries-geojson.zip&quot;&gt;download the final GeoJSON files on thematicmapping.org&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+NB! &lt;a href=&quot;http://draft.blogger.com/%3Ca%20href=%22https://github.com/mbostock/topojson%22%3E&quot;&gt;Mike Bostock’s TopoJSON&lt;/a&gt; would allow us to compress the GeoJSON even more, while preserving topology (shared borders between countries) - but we would need to use a map client supporting the format. Looks promising!&lt;/div&gt;
+&lt;div class=&quot;blogger-post-footer&quot;&gt;&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://blogger.googleusercontent.com/tracker/4741970181714760187-3204523538763841901?l=blog.thematicmapping.org&quot; width=&quot;1&quot; /&gt;&lt;/div&gt;&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/thematicmapping/~4/CwvY_zsuZqc&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 09:19:51 +0000</pubDate>
+	<author>noreply@blogger.com (Bjørn Sandvik)</author>
+</item>
+<item>
+	<title>Directions Magazine: You Should “Be Inspired” by Infrastructure Projects</title>
+	<guid isPermaLink="true">http://www.directionsmag.com/articles/you-should-be-inspired-by-infrastructure-projects/291763</guid>
+	<link>http://www.directionsmag.com/articles/you-should-be-inspired-by-infrastructure-projects/291763</link>
+	<description>Last week I attended Bentley System's &quot;Be Inspired&quot; Awards Conference where the company presents the finalists and award winners for the top engineering and infrastructure projects submitted from around the world. Having adjudicated this competition in past years, I can tell you from personal experiece that the imagination, creativity and hard work that goes into these projects are true examples of human ingenuity.
+   
+        
+        
+      
+      More about: bein2012, civil engineering, infrastructure, utilities
+      ]]&amp;gt;</description>
+	<pubDate>Mon, 19 Nov 2012 08:42:28 +0000</pubDate>
+</item>
+<item>
+	<title>JGrass Tech Tips: Il Repertorio Nazionale dei Dati Territoriali</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-5970315134912558864.post-6578056979186468581</guid>
+	<link>http://jgrasstechtips.blogspot.com/2012/11/il-repertorio-nazionale-dei-dati.html</link>
+	<description>&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot;&gt;&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;http://4.bp.blogspot.com/-i1Qxwn845OY/UKkx6WDJinI/AAAAAAABnfE/Crt5iN04lwE/s1600/logo_RNDT.png&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://4.bp.blogspot.com/-i1Qxwn845OY/UKkx6WDJinI/AAAAAAABnfE/Crt5iN04lwE/s1600/logo_RNDT.png&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: white; color: #222222;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: white; color: #222222;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: white; color: #222222;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;JGrassTechTips inserisce oggi nella sua homepage il link del &lt;/span&gt;&lt;a href=&quot;http://www.rndt.gov.it/RNDT/home/index.php&quot; target=&quot;_blank&quot;&gt;Repertorio Nazionale dei Dati Territoriali&lt;/a&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt; (RNDT). Attualmente questo strumento sta muovendo i primi passi, ma noi desideriamo che entri a fare parte della “&lt;i&gt;cassetta degli attrezzi&lt;/i&gt;” di ogni geomatico e, in prospettiva, di ogni cittadino italiano. Non siamo da soli, ma insieme a: &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: white; color: #222222; font-weight: normal;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;background-color: white; color: #222222; font-weight: normal;&quot;&gt;&lt;/b&gt;&lt;br /&gt;&lt;ul style=&quot;margin-bottom: 0pt; margin-top: 0pt;&quot;&gt;&lt;li style=&quot;background-color: transparent; font-family: Arial; margin-left: 15px; text-align: justify; vertical-align: baseline;&quot;&gt;&lt;b style=&quot;background-color: white; color: #222222; font-weight: normal;&quot;&gt;&lt;a href=&quot;http://www.freegis-italia.org/&quot; style=&quot;color: #1155cc;&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;freegis-italia&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/li&gt;&lt;b style=&quot;background-color: white; color: #222222; font-weight: normal;&quot;&gt;&lt;li style=&quot;background-color: transparent; font-family: Arial; margin-left: 15px; text-align: justify; vertical-align: baseline;&quot;&gt;&lt;a href=&quot;http://www.geoforus.it/&quot; style=&quot;color: #1155cc;&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;GEOforUS&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;background-color: transparent; font-family: Arial; margin-left: 15px; text-align: justify; vertical-align: baseline;&quot;&gt;&lt;a href=&quot;http://geofunction.blogspot.it/&quot; style=&quot;color: #1155cc;&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Geofunction&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;background-color: transparent; font-family: Arial; margin-left: 15px; text-align: justify; vertical-align: baseline;&quot;&gt;&lt;a href=&quot;http://www.rivistageomedia.it/&quot; style=&quot;color: #1155cc;&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;GEOmedia&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;background-color: transparent; font-family: Arial; margin-left: 15px; text-align: justify; vertical-align: baseline;&quot;&gt;&lt;a href=&quot;http://www.gisinfrastrutture.it/&quot; style=&quot;color: #1155cc;&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Gis e Infrastrutture&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;background-color: transparent; font-family: Arial; margin-left: 15px; text-align: justify; vertical-align: baseline;&quot;&gt;&lt;a href=&quot;http://ilmuschiosuglialberi.blog.com/&quot; style=&quot;color: #1155cc;&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Il muschio sugli alberi&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;background-color: transparent; font-family: Arial; margin-left: 15px; text-align: justify; vertical-align: baseline;&quot;&gt;&lt;a href=&quot;http://www.kartoblog.it/&quot; style=&quot;color: #1155cc;&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Kartoblog&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;background-color: transparent; font-family: Arial; margin-left: 15px; text-align: justify; vertical-align: baseline;&quot;&gt;&lt;a href=&quot;http://mapfreely.org/&quot; style=&quot;color: #1155cc;&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Map Freely&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;background-color: transparent; font-family: Arial; margin-left: 15px; text-align: justify; vertical-align: baseline;&quot;&gt;&lt;a href=&quot;http://www.massimozotti.it/&quot; style=&quot;color: #1155cc;&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;massimozotti.it&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;background-color: transparent; font-family: Arial; margin-left: 15px; text-align: justify; vertical-align: baseline;&quot;&gt;&lt;a href=&quot;http://blog.spaziogis.it/&quot; style=&quot;color: #1155cc;&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;TANTO&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;background-color: transparent; font-family: Arial; margin-left: 15px; text-align: justify; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #1155cc; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;a href=&quot;http://altergeo.wordpress.com/&quot; style=&quot;color: #1155cc;&quot; target=&quot;_blank&quot;&gt;Un blog di &quot;Alternativa Geologica&quot;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/b&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: white; color: #222222; font-weight: normal;&quot;&gt;&lt;span style=&quot;font-family: Arial;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: large;&quot;&gt;&lt;a href=&quot;http://wp.me/p2lQWD-1mB&quot; target=&quot;_blank&quot;&gt;Leggi l'articolo su TANTO.&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;blogger-post-footer&quot;&gt;&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://blogger.googleusercontent.com/tracker/5970315134912558864-6578056979186468581?l=jgrasstechtips.blogspot.com&quot; width=&quot;1&quot; /&gt;&lt;/div&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 08:00:02 +0000</pubDate>
+	<author>noreply@blogger.com (andrea antonello)</author>
+</item>
+<item>
+	<title>VerySpatial: A VerySpatial Podcast – Episode 383</title>
+	<guid isPermaLink="false">http://veryspatial.com/?p=10960</guid>
+	<link>http://veryspatial.com/2012/11/a-veryspatial-podcast-episode-383/</link>
+	<description>&lt;p&gt;&lt;strong&gt;A VerySpatial Podcast&lt;/strong&gt;&lt;br /&gt;
+Shownotes – Episode 383&lt;br /&gt;
+November 18, 2012 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main Topic: Our conversation wrapping up Geography Awareness Week&lt;/strong&gt; &lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://traffic.libsyn.com/avsp/AVSP_Episode383.mp3&quot;&gt; Click to directly download MP3&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://traffic.libsyn.com/avsp/AVSP_Episode383.m4a&quot;&gt; Click to directly download AAC&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;p&gt;&lt;strong&gt;Click for the detailed shownotes&lt;/strong&gt; &lt;span id=&quot;more-10960&quot;&gt;&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt; &lt;/p&gt;
+&lt;li&gt;This week’s podsafe music: “Re: Your Brains” by &lt;a href=&quot;http://www.jonathancoulton.com/&quot;&gt;Jonathan Coulton&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;&lt;code&gt;&lt;br /&gt;&lt;/code&gt;&lt;br /&gt;
+&lt;strong&gt;News&lt;/strong&gt; &lt;/p&gt;
+&lt;li&gt;&lt;a href=&quot;http://techcrunch.com/2012/11/13/nokia-steps-up-in-its-mapping-quest-buys-earthmine-for-3d-street-level-imaging/&quot;&gt;Nokia buys earthmine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.wired.com/gadgetlab/2012/11/nokia-launches-here-its-cloud-mapping-service/&quot;&gt;Nokia launches ‘Here’ – cloud-based location service on multiple platforms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://apb.directionsmag.com/entry/tomtom-launches-sdk-for-lbs-what-software-developers-get-if-they-sign-/291382&quot;&gt;TomTom Announces Map Toolkit API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://support.esri.com/en/downloads/patches-servicepacks/view/productid/189/metaid/1913&quot;&gt;ArcGIS 10.1 SP1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;–&lt;a href=&quot;http://blogs.esri.com/esri/arcgis/2012/10/31/announcing-64-bit-geoprocessing/&quot;&gt;64bit geoprocessing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://geospatialpr.com/2012/11/13/intergraph-introduces-geomedia-smart-client-2013/&quot;&gt;Intergraph GeoMedia Smart Client 2013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://slashgeo.org/2012/11/14/MapServer-62-Released&quot;&gt;MapServer 6.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.gamasutra.com/view/news/181585/Unity_4_is_here.php#.UKmh9YbNmO4&quot;&gt;Unity 4.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://kelsocartography.com/blog/?p=4283&quot;&gt;Natural Earth V 2.0.0&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;&lt;code&gt;&lt;br /&gt;&lt;/code&gt;&lt;br /&gt;
+&lt;strong&gt;Web Corner&lt;/strong&gt;&lt;/p&gt;
+&lt;li&gt;&lt;a href=&quot;http://dataappeal.com/&quot;&gt;Data Appeal&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;&lt;code&gt;&lt;br /&gt;&lt;/code&gt;&lt;br /&gt;
+&lt;strong&gt;Main Topic&lt;/strong&gt;&lt;/p&gt;
+&lt;li&gt;This week, as a wrap-up to Geography Awareness Week, we share some of our thoughts on geography and what we love about it.&lt;/li&gt;
+&lt;p&gt;&lt;code&gt;&lt;br /&gt;&lt;/code&gt;&lt;br /&gt;
+&lt;strong&gt;Tip of the Week&lt;/strong&gt;&lt;/p&gt;
+&lt;li&gt;&lt;a href=&quot;http://spotthestation.nasa.gov/&quot;&gt;NASA Spot the Station&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;&lt;code&gt;&lt;br /&gt;&lt;/code&gt;&lt;br /&gt;
+&lt;strong&gt;Events Corner&lt;/strong&gt; &lt;/p&gt;
+&lt;li&gt;&lt;a href=&quot;http://au.autodesk.com/&quot;&gt;AU2012&lt;/a&gt;: 27-29 November, Las Vegas…and AU Virtual&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.lidarmap.org/register/default.aspx&quot;&gt;International LIDAR Mapping Forum&lt;/a&gt;: 11-13 February, Denver, CO&lt;/li&gt;
+&lt;li&gt;Geography Awareness Week 2013: 17-23 November, Everywhere!&lt;/li&gt;</description>
+	<pubDate>Mon, 19 Nov 2012 03:43:33 +0000</pubDate>
+        <enclosure url="http://traffic.libsyn.com/avsp/AVSP_Episode383.mp3" length="0" type="audio/mpeg"/>
+</item>
+<item>
+	<title>Free and Open Source GIS Ramblings: Improving Population Density Maps Using Dasymetric Mapping</title>
+	<guid isPermaLink="false">http://underdark.wordpress.com/?p=2343</guid>
+	<link>http://underdark.wordpress.com/2012/11/18/improving-population-density-maps-using-dasymetric-mapping/</link>
+	<description>&lt;p&gt;Yesterday, I described my process to generate a basic population density map from the city of Vienna’s open government data. In the end of that post, I described some ideas for further improvement. Today,  I want to follow-up on those ideas using what is known as &lt;strong&gt;dasymetric mapping&lt;/strong&gt;. &lt;a href=&quot;http://support.esri.com/en/knowledgebase/GISDictionary/term/dasymetric%20mapping&quot;&gt;GIS Dictionary&lt;/a&gt; defines it well (much better than Wikipedia):&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Dasymetric mapping is a technique in which attribute data that is organized by a large or arbitrary area unit is more accurately distributed within that unit by the overlay of geographic boundaries that exclude, restrict, or confine the attribute in question.&lt;br /&gt;
+For example, a population attribute organized by census tract might be more accurately distributed by the overlay of water bodies, vacant land, and other land-use boundaries within which it is reasonable to infer that people do not live.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;That’s exactly what I want to do: Based on subdistricts with population density values and auxiliary data – Corine Land Cover to be exact – I want to create an improved representation of population density within the city. &lt;/p&gt;
+&lt;p&gt;This is the population density map I start out with:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://underdark.files.wordpress.com/2012/11/dasy1.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-2347&quot; height=&quot;232&quot; src=&quot;http://underdark.files.wordpress.com/2012/11/dasy1.png?w=470&amp;amp;h=232&quot; title=&quot;dasy1&quot; width=&quot;470&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;… and this is the Corine Land Cover dataset for the same area:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://underdark.files.wordpress.com/2012/11/dasy21.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-2353&quot; height=&quot;232&quot; src=&quot;http://underdark.files.wordpress.com/2012/11/dasy21.png?w=470&amp;amp;h=232&quot; title=&quot;dasy2&quot; width=&quot;470&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It shows built-up areas (red), parks and natural areas (green) as well as water-covered regions (blue). For further analysis, I follow the assumption that people only live in areas with Corine code 111 “Continuous urban fabric” and 112 “Discontinuous urban fabric”. Therefore, I use the Intersection tool to clip only these residential areas from the subdistrict polygons. The subdistrict population can now be distributed over these new, smaller areas (use Field Calculator) to create a more realistic visualization of population density:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://underdark.files.wordpress.com/2012/11/dasy3.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-2349&quot; height=&quot;232&quot; src=&quot;http://underdark.files.wordpress.com/2012/11/dasy3.png?w=470&amp;amp;h=232&quot; title=&quot;dasy3&quot; width=&quot;470&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For easier comparison, I put the original density and the dasymetric map into a looping animation. Some subdistricts change their population density values quite drastically, especially in regions where big parts covered by water or rail infrastructure were removed: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://underdark.files.wordpress.com/2012/11/dasy2.gif&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-2367&quot; src=&quot;http://underdark.files.wordpress.com/2012/11/dasy2.gif?w=470&quot; title=&quot;dasy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Corine Land Cover is not too detailed but I think it still usable on this scale. One thing to note is that I used data from 2006 with population data from 2012 so some areas in the outer districts will have been turned residential in the meantime. But I hope this doesn’t distort the overall picture too much.&lt;/p&gt;
+&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/underdark.wordpress.com/2343/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/underdark.wordpress.com/2343/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://stats.wordpress.com/b.gif?host=underdark.wordpress.com&amp;amp;blog=835829&amp;amp;post=2343&amp;amp;subd=underdark&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Sun, 18 Nov 2012 21:31:52 +0000</pubDate>
+</item>
+<item>
+	<title>geomaticblog: Geohacking against corruption</title>
+	<guid isPermaLink="false">http://geomaticblog.net/?p=937</guid>
+	<link>http://geomaticblog.net/2012/11/18/geohacking-against-corruption/</link>
+	<description>&lt;p&gt;Last week I was with three colleges of &lt;a href=&quot;http://www.prodevelop.es&quot; title=&quot;Prodevelop&quot;&gt;Prodevelop&lt;/a&gt; and other 20 hackers at the &lt;a href=&quot;http://15iacc.org/&quot; title=&quot;15 IACC&quot;&gt;15th Anticorruption Conference&lt;/a&gt; in Brasilia. We participated in a four days &lt;a href=&quot;http://15iacc.org/get-involved/iacc-hackathon/&quot;&gt;hackathon&lt;/a&gt; working in groups to create web or mobile applications about transparency and corruption.&lt;/p&gt;
+&lt;p&gt;How we end up on that event? Well &lt;a href=&quot;http://twitter.com/alrocar&quot;&gt;Alberto&lt;/a&gt; read the call at a mailing list and we signed up without too much confidence, but 6 days before the event we got an email, 2 days before the flight tickets were arranged and 1 day before we got the accommodation information. Yes that was crazy. In fact everyone said we were crazy but well, &lt;strong&gt;why not?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anyway, we arrived and met some incredibly interesting people, many of them working on transparency and corruption fight. They presented their projects, ideas or needs and we set up 8 or 10 groups to collaborate. Most of people were developers but others were designers, lawyers and well, you know, a cartographer &lt;img alt=&quot;:-)&quot; class=&quot;wp-smiley&quot; src=&quot;http://s0.wp.com/wp-includes/images/smilies/icon_smile.gif&quot; /&gt; .&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/xurxosanz/8171883502/&quot; title=&quot;Final tweaks before application presentations #15iacc by XuRxO, on Flickr&quot;&gt;&lt;img alt=&quot;Final tweaks before application presentations #15iacc&quot; class=&quot;aligncenter&quot; height=&quot;375&quot; src=&quot;http://farm9.staticflickr.com/8065/8171883502_68262f5cfe.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;After four days of coding, some partying, an unknown number of beers and table football plays and not too much sleeping we presented our projects to a jury that decided a prize winner to further development of their idea. Yeah, there was a prize and most of us didn’t know about it after two days or so of working.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/xurxosanz/8172370475/&quot; title=&quot;Techincal tools wrap up by XuRxO, on Flickr&quot;&gt;&lt;img alt=&quot;Techincal tools wrap up&quot; class=&quot;aligncenter&quot; height=&quot;375&quot; src=&quot;http://farm9.staticflickr.com/8482/8172370475_b339886c12.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/xurxosanz/8172399486/&quot; title=&quot;Hacker futbolín by XuRxO, on Flickr&quot;&gt;&lt;img alt=&quot;Hacker futbolín&quot; class=&quot;aligncenter&quot; height=&quot;375&quot; src=&quot;http://farm9.staticflickr.com/8065/8172399486_8da4f75bea.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I worked with Alberto and Dani on the idea of see how &lt;a href=&quot;http://geoinquietosvlc.github.com/15iacc/&quot; title=&quot;Money Journey&quot;&gt;a 3D globe visualization&lt;/a&gt; could work to visualize the brand new &lt;a href=&quot;http://openbankproject.com/&quot;&gt;Open Bank Project&lt;/a&gt; API (more info at our &lt;a href=&quot;http://geoinquietosvlc.github.com/15iacc/slides/&quot;&gt;project slides&lt;/a&gt;). This API is aimed to give information to any organization that wants to offer their bank activity. We thought that a 3D visualization could be powerful and well, we think we were quite successful according to the number of questions and comments. Simon, the API developer was there and he thought that expressing the bank activity as a concatenation of sounds could be also expressive and at the end we saw some bank accounts singing!! Thus at the end we had to pretty different “visualizations” of their new API.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://geoinquietosvlc.github.com/15iacc/&quot; title=&quot;Money Jouney&quot;&gt;&lt;img alt=&quot;Money Journey&quot; class=&quot;aligncenter&quot; src=&quot;https://a248.e.akamai.net/camo.github.com/5c25433d05d9b1b5ebd3f4f079efedc74b4ce593/687474703a2f2f67656f696e71756965746f73766c632e6769746875622e636f6d2f3135696163632f6173736574732f6d6f6e65795f6a6f75726e65792e706e67&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our fourth prodeveloper, &lt;a href=&quot;http://twitter.com/carsanper&quot;&gt;Carlos&lt;/a&gt;, worked with &lt;a href=&quot;http://twitter.com/jjelosua&quot;&gt;Juan&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/gufalei&quot;&gt;Gustavo&lt;/a&gt; to produce a new layer that tracks the relation between deforestation and cattle ranching at Amazonas region. They designed a new layer for &lt;a href=&quot;http://infoamazonia.org/&quot;&gt;Infoamazonia&lt;/a&gt; portal using &lt;a href=&quot;http://mapbox.com/tilemill/&quot;&gt;TileMill&lt;/a&gt; and Mapbox and with the help of a fellow, it was deployed and ready to be published.&lt;/p&gt;
+&lt;p&gt;We spend a week learning of amazing people, some of them working really hard to make our world better so for me it was a &lt;strong&gt;great experience&lt;/strong&gt; and I was not so surprised to see how well &lt;strong&gt;geospatial technologies fit on this field&lt;/strong&gt; and how we, the geospatial professionals, can help these people to develop interesting applications. I hope we will have more opportunities to work with them in the future.&lt;/p&gt;
+&lt;p&gt;And because being grateful is a good thing, I want to thank &lt;a href=&quot;http://transparency.org/&quot;&gt;Transparency International&lt;/a&gt; for giving us the opportunity to be at Brasilia and do all this stuff, &lt;strong&gt;thanks!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/xurxosanz/8194279404/&quot; title=&quot;IMG_8690 by XuRxO, on Flickr&quot;&gt;&lt;img alt=&quot;IMG_8690&quot; class=&quot;aligncenter&quot; height=&quot;375&quot; src=&quot;http://farm9.staticflickr.com/8198/8194279404_5e5390d5e8.jpg&quot; width=&quot;500&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: Just for the records, I’ll add also a nice video created by Alberto with more photos of our week at Brasilia&lt;/p&gt;
+&lt;span class=&quot;embed-youtube&quot; style=&quot;text-align: center; display: block;&quot;&gt;&lt;/span&gt;
+&lt;br /&gt;Archivado en: &lt;a href=&quot;http://geomaticblog.net/category/eventos/&quot;&gt;eventos&lt;/a&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/geomaticblog.wordpress.com/937/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/geomaticblog.wordpress.com/937/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://stats.wordpress.com/b.gif?host=geomaticblog.net&amp;amp;blog=7328539&amp;amp;post=937&amp;amp;subd=geomaticblog&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Sun, 18 Nov 2012 17:03:07 +0000</pubDate>
+</item>
+<item>
+	<title>The Map Guy(de): FDO Toolbox 1.1</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-1951542926024108564.post-2248135221389513915</guid>
+	<link>http://themapguyde.blogspot.com/2012/11/fdo-toolbox-11.html</link>
+	<description>Here's a new release of &lt;a href=&quot;http://code.google.com/p/fdotoolbox/&quot;&gt;FDO Toolbox&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;The new items are:&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;FDO Toolbox now targets &lt;a href=&quot;http://fdo.osgeo.org/content/fdo-370-downloads&quot;&gt;FDO 3.7 final&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Missing dll error dialogs from &lt;a href=&quot;http://themapguyde.blogspot.com.au/2011/04/out-of-box-mapguidefdo-experience-or.html&quot;&gt;FDO providers that require additional setup&lt;/a&gt; are now suppressed on startup&lt;/li&gt;&lt;li&gt;Some stability fixes&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Please ensure you have &lt;a href=&quot;http://www.microsoft.com/en-us/download/details.aspx?id=17718&quot;&gt;.net Framework 4.0&lt;/a&gt; and the Visual C++ 2010 redistributable (&lt;a href=&quot;http://www.microsoft.com/en-us/download/details.aspx?id=8328&quot;&gt;32bit&lt;/a&gt; or &lt;a href=&quot;http://www.microsoft.com/en-us/download/details.aspx?id=13523&quot;&gt;64bit&lt;/a&gt;) installed before installing FDO Toolbox 1.1&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;http://code.google.com/p/fdotoolbox/downloads/list&quot;&gt;Download&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Note: FDO Toolbox is still a semi-retired project. Don't expect any major new features. I've put this release out because I believe every new version of FDO should at least have a matching version of FDO Toolbox that uses that particular version.&lt;/div&gt;&lt;div class=&quot;blogger-post-footer&quot;&gt;&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://blogger.googleusercontent.com/tracker/1951542926024108564-2248135221389513915?l=themapguyde.blogspot.com&quot; width=&quot;1&quot; /&gt;&lt;/div&gt;</description>
+	<pubDate>Sun, 18 Nov 2012 13:34:22 +0000</pubDate>
+	<author>noreply@blogger.com (Jackie Ng)</author>
+</item>
+<item>
+	<title>LiDAR News: LiDAR Reveals Sandy’s Destruction</title>
+	<guid isPermaLink="false">http://blog.lidarnews.com/?p=10264</guid>
+	<link>http://feedproxy.google.com/~r/InTheScan/~3/DeCxy9Vw3Gw/lidar-reveals-sandys-destruction</link>
+	<description>In places the beach lost more than 10 feet of dune. Continue reading →&lt;br /&gt;
+&lt;br /&gt;
+Click Title to Continue Reading...&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/InTheScan/~4/DeCxy9Vw3Gw&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Sun, 18 Nov 2012 12:33:09 +0000</pubDate>
+</item>
+<item>
+	<title>AnyGeo: Week-End Reading – Enterprise Mobility for Competitive Advantage</title>
+	<guid isPermaLink="false">http://blog.gisuser.com/?p=12071</guid>
+	<link>http://blog.gisuser.com/2012/11/17/week-end-reading-enterprise-mobility-for-competitive-advantage/</link>
+	<description>Thanks to the web, there’s loads of great research, white papers, and free reading material available to help get you and your company that competitive advantage you might be searching for. Enterprise mobility is a key focus area for many, … &lt;a href=&quot;http://blog.gisuser.com/2012/11/17/week-end-reading-enterprise-mobility-for-competitive-advantage/&quot;&gt;Continue reading &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;</description>
+	<pubDate>Sat, 17 Nov 2012 19:32:50 +0000</pubDate>
+</item>
+<item>
+	<title>Let's Push Things Forward: Subsidy</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-15324911.post-5872045558815802684</guid>
+	<link>http://lptf.blogspot.com/2012/11/subsidy.html</link>
+	<description>&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;http://feeds.felixsalmon.com/~r/felix-all/~3/FOcvEnPAsnM/&quot;&gt;Counterparties: The lessons of tuition inflation&lt;/a&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;Felix Salmon dismisses the effect of loan subsidies on rising tuition costs by pointing out that the loans get repaid with interest, so that means it is not a subsidy.  Besides being a very weak argument, whether or not it is labeled a subsidy is immaterial. It is credit which allows people to pay more. Without a cap, colleges wouldn't be able to charge as much, and hire so many useless administrators. The cost of college is out of control. Watching the online disruption is fun. Would love to find a way to get more involved....&lt;/p&gt;&lt;div class=&quot;blogger-post-footer&quot;&gt;&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://blogger.googleusercontent.com/tracker/15324911-5872045558815802684?l=lptf.blogspot.com&quot; width=&quot;1&quot; /&gt;&lt;/div&gt;</description>
+	<pubDate>Sat, 17 Nov 2012 18:26:37 +0000</pubDate>
+	<author>noreply@blogger.com (Matt McKnight)</author>
+</item>
+<item>
+	<title>All Points Blog: Update: The Economist Honors Dangermond and Hanke for Contributions to Geospatial</title>
+	<guid isPermaLink="true">http://apb.directionsmag.com/entry/economist-honors-dangermond-and-hanke-for-contribution-to-geospatial/289221</guid>
+	<link>http://apb.directionsmag.com/entry/economist-honors-dangermond-and-hanke-for-contribution-to-geospatial/289221</link>
+	<description>The Economist, which apparently turned on the article below early, made the awards announcement on Nov 16. Also honored: Garmin.
+
+	- press release
+
+	--- original post 11/5/12 ---
+
+	Jack Dangermond, founder of Esri and John Hanke, co-founder of Keyhole (who's technology became Google... &lt;a href=&quot;http://apb.directionsmag.com/entry/economist-honors-dangermond-and-hanke-for-contribution-to-geospatial/289221&quot;&gt;Continue reading&lt;/a&gt;</description>
+	<pubDate>Sat, 17 Nov 2012 17:51:24 +0000</pubDate>
+</item>
+<item>
+	<title>Free and Open Source GIS Ramblings: Mapping OGDWien Population Density</title>
+	<guid isPermaLink="false">http://underdark.wordpress.com/?p=2306</guid>
+	<link>http://underdark.wordpress.com/2012/11/17/mapping-ogdwien-population-density/</link>
+	<description>&lt;p&gt;The &lt;a href=&quot;http://data.gv.at/auftritte/?organisation=stadt-wien&quot;&gt;city of Vienna&lt;/a&gt; provides both &lt;a href=&quot;http://data.gv.at/datensatz/?id=e4079286-310c-435a-af2d-64604ba9ade5&quot;&gt;subdistrict geometries&lt;/a&gt; and &lt;a href=&quot;http://data.gv.at/datensatz/?id=efbdbab2-a095-422b-acb4-81cc9c380093&quot;&gt;population statistics&lt;/a&gt;. Mapping the city’s population density should be straightforward, right? Let’s see …&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://underdark.files.wordpress.com/2012/11/zbez.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-2308&quot; height=&quot;311&quot; src=&quot;http://underdark.files.wordpress.com/2012/11/zbez.png?w=470&amp;amp;h=311&quot; title=&quot;zbez&quot; width=&quot;470&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://underdark.files.wordpress.com/2012/11/pop_zbez_csv1.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-2312&quot; height=&quot;121&quot; src=&quot;http://underdark.files.wordpress.com/2012/11/pop_zbez_csv1.png?w=470&amp;amp;h=121&quot; title=&quot;pop_zbez_csv&quot; width=&quot;470&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We should be able to join on ZBEZ and SUB_DISTRICT_CODE, check! But what about the actual population counts? Unfortunately, there is no file which simply lists population per subdistrict. The file I found contains four lines for each subdistrict: females 2011, males 2011, females 2012 and males 2012. That’s not the perfect format for mapping general population density. &lt;/p&gt;
+&lt;p&gt;A quick way to prepare our input data is applying pivot tables, eg. in Open Office: The goal is to have one row per subdistrict and columns for population in 2011 and 2012:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://underdark.files.wordpress.com/2012/11/oopivot.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-2315&quot; height=&quot;309&quot; src=&quot;http://underdark.files.wordpress.com/2012/11/oopivot.png?w=470&amp;amp;h=309&quot; title=&quot;oopivot&quot; width=&quot;470&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://underdark.files.wordpress.com/2012/11/oopivot2.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-2319&quot; height=&quot;238&quot; src=&quot;http://underdark.files.wordpress.com/2012/11/oopivot2.png?w=470&amp;amp;h=238&quot; title=&quot;oopivot2&quot; width=&quot;470&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Export as CSV, &lt;a href=&quot;http://underdark.wordpress.com/2011/03/07/how-to-specify-data-types-of-csv-columns-for-use-in-qgis/&quot; title=&quot;How to Specify Data Types of CSV Columns for Use in QGIS&quot;&gt;add CSVT&lt;/a&gt; and load into QGIS. Finally, we can join geometries and CSV table:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://underdark.files.wordpress.com/2012/11/zbez_join.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-2325&quot; src=&quot;http://underdark.files.wordpress.com/2012/11/zbez_join.png?w=470&quot; title=&quot;zbez_join&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A quick look at the joined data confirms that each subdistrict now has a population value. But visualizing absolute values results in misleading maps. Big subdistricts with only average density will overrule smaller but much denser subdistricts:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://underdark.files.wordpress.com/2012/11/abspopulation.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-2327&quot; height=&quot;196&quot; src=&quot;http://underdark.files.wordpress.com/2012/11/abspopulation.png?w=470&amp;amp;h=196&quot; title=&quot;abspopulation&quot; width=&quot;470&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;That’s why we need to calculate population density. This is easy to do using Field Calculator. The subdistrict file already contains area values but even if they were missing, we could calculate it using the $area operator: &lt;code&gt; &quot;pop2012&quot;  /  ($area / 10000)&lt;/code&gt;. The resulting population density in population per ha finally shows which subdistricts are the most densely populated:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://underdark.files.wordpress.com/2012/11/popdensity.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-2333&quot; height=&quot;196&quot; src=&quot;http://underdark.files.wordpress.com/2012/11/popdensity.png?w=470&amp;amp;h=196&quot; title=&quot;popdensity&quot; width=&quot;470&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;One could argue that this is still no accurate representation of population density: Big parts of some subdistricts are actually covered by water – especially along the Danube – and therefore uninhabited. There are also big parks which could be excluded from the subdistrict area. But that’s going to be the topic of another post.&lt;/p&gt;
+&lt;p&gt;If you want to use my results so far, you can &lt;a href=&quot;https://github.com/anitagraser/Webmapping-Sandbox/tree/gh-pages/data&quot;&gt;download the GeoJSON file from Github&lt;/a&gt;.&lt;/p&gt;
+&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/underdark.wordpress.com/2306/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/underdark.wordpress.com/2306/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://stats.wordpress.com/b.gif?host=underdark.wordpress.com&amp;amp;blog=835829&amp;amp;post=2306&amp;amp;subd=underdark&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Sat, 17 Nov 2012 17:36:07 +0000</pubDate>
+</item>
+<item>
+	<title>GIS Lounge: Understanding and playing with ZIP Codes</title>
+	<guid isPermaLink="false">http://gislounge.com/fun/trivia/understanding-and-playing-with-zip-codes/</guid>
+	<link>http://gislounge.com/understanding-and-playing-with-zip-codes/</link>
+	<description>&lt;p&gt;If you live or frequently send mail to the United States, then you probably understand that one of the most important components of the address is getting the ZIP code correct in order to have your mail successfully arrive at the intended address.  The city or community that you list is not as important as [...]&lt;/p&gt;&lt;p&gt;The post &lt;a href=&quot;http://gislounge.com/understanding-and-playing-with-zip-codes/&quot;&gt;Understanding and playing with ZIP Codes&lt;/a&gt; appeared first on &lt;a href=&quot;http://gislounge.com&quot;&gt;GIS Lounge&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Sat, 17 Nov 2012 16:04:02 +0000</pubDate>
+</item>
+<item>
+	<title>Mapoholic: Identify Task for WMS layers in ArcGIS Silverlight</title>
+	<guid isPermaLink="false">https://mapoholic.wordpress.com/?p=670</guid>
+	<link>http://mapoholic.wordpress.com/2012/11/17/identify-task-for-wms-layers-in-arcgis-silverlight/</link>
+	<description>Apparently it doesn’t seem to be working as expected- even if the WMS layer is stored in an MXD document.  Instead of returning the layer attributes, it returns the WMS GetFeatureInfo request i.e. something similar to: http://www2.demis.nl/WMS/wms.ashx?WMS=SAMPLE&amp;amp;VERSION=1.3.0&amp;amp;REQUEST=GetFeatureInfo&amp;amp;&amp;lt; &amp;gt;CRS=CRS:84&amp;amp;BBOX=-180,-90,180,90&amp;amp;WIDTH=1304&amp;amp;HEIGHT=652&amp;amp;LAYERS=Countries&amp;amp; QUERY_LAYERS=Countries&amp;amp; STYLES=&amp;amp;EXCEPTIONS=XML&amp;amp;FORMAT=image/png&amp;amp;INFO_FORMAT=text/html&amp;amp;FEATURE_COUNT=50&amp;amp;I=304&amp;amp;J=192 The workaround is to use this URL to make a direct call to the WMS [...]&lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;http://stats.wordpress.com/b.gif?host=mapoholic.wordpress.com&amp;amp;blog=10819993&amp;amp;post=670&amp;amp;subd=mapoholic&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Sat, 17 Nov 2012 13:20:28 +0000</pubDate>
+</item>
+<item>
+	<title>LiDAR News: An Inside Look at NAVTEQ True</title>
+	<guid isPermaLink="false">http://blog.lidarnews.com/?p=10255</guid>
+	<link>http://feedproxy.google.com/~r/InTheScan/~3/wrYZhchb5yo/an-inside-look-at-navteq-true</link>
+	<description>This is the most impressive mobile mapping video I have seen. Once can only imagine where this technology will be in 5 years. Continue reading →&lt;br /&gt;
+&lt;br /&gt;
+Click Title to Continue Reading...&lt;img height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/InTheScan/~4/wrYZhchb5yo&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Sat, 17 Nov 2012 13:02:44 +0000</pubDate>
+</item>
+<item>
+	<title>OpenGeo: Simple SQL GIS</title>
+	<guid isPermaLink="false">http://blog.opengeo.org/?p=4323</guid>
+	<link>http://blog.opengeo.org/2012/11/16/simple-sql-gis/</link>
+	<description>&lt;p&gt;And, late on a Friday afternoon, the plaintive cry was heard!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/chadskelton/status/269579044692049920&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-4324&quot; height=&quot;90&quot; src=&quot;http://blog.opengeo.org/wp-content/uploads/2012/11/screenshot_03.png&quot; title=&quot;Skelton Tweet&quot; width=&quot;308&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And indeed, into the sea they do go!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://blog.opengeo.org/wp-content/uploads/2012/11/before.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-4332&quot; height=&quot;311&quot; src=&quot;http://blog.opengeo.org/wp-content/uploads/2012/11/before.png&quot; title=&quot;Before&quot; width=&quot;516&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And ‘lo, the SQL faeries were curious, and gave it a shot!&lt;/p&gt;
+&lt;pre&gt;##### Commandline OSX/Linux #####
+
+# Get the Shape files
+# http://www.elections.bc.ca/index.php/voting/electoral-maps-profiles/
+wget http://www.elections.bc.ca/docs/map/redis08/GIS/ED_Province.exe
+
+# Exe? No prob, it's actually a self-extracting ZIP
+unzip ED_Province
+
+# Get a PostGIS database ready for the data
+createdb ed_clip
+psql -c &quot;create extension postgis&quot; -d ed_clip
+
+# Load into PostGIS
+# The .prj says it is &quot;Canada Albers Equal Area&quot;, but they
+# lie! It's actually BC Albers, EPSG:3005
+shp2pgsql -s 3005 -i -I ED_Province ed | psql -d ed_clip
+
+# We need some ocean! Use Natural Earth...
+# http://www.naturalearthdata.com/downloads/
+wget http://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/physical/ne_10m_ocean.zip
+unzip ne_10m_ocean.zip
+
+# Load the Ocean into PostGIS!
+shp2pgsql -s 4326 -i -I ne_10m_ocean ocean | psql -d ed_clip
+
+# OK, now we connect to PostGIS and start working in SQL
+psql -e ed_clip
+
+##### SQL ######
+
+# How big is the Ocean table?
+SELECT Count(*) FROM ocean;
+
+# Oh, only 1 polygon. Well, that makes it easy... 
+# For each electoral district, we want to difference away the ocean.
+# The ocean is a one big polygon, this will take a while (if we
+# were being more subtle, we'd first clip the ocean down to 
+# a reasonable area around BC.)
+CREATE TABLE ed_clipped AS
+SELECT 
+  CASE 
+  WHEN ST_Intersects(o.geom, ST_Transform(e.geom,4326))
+  THEN ST_Difference(ST_Transform(e.geom,4326), o.geom)
+  ELSE ST_Transform(e.geom,4326)
+  END AS geom,
+  e.edabbr,
+  e.edname
+FROM ed e, ocean o;
+
+# Check our geometry types...
+SELECT DISTINCT ST_GeometryType(geom) FROM ed_clipped;
+
+# Oh, they are heterogeneous. Let's force them all multi
+UPDATE ed_clipped SET geom = ST_Multi(geom);
+
+##### Commandline OSX/Linux #####
+
+# Dump the result out of the database back into shapes
+pgsql2shp -f ed2009_ocean ed_clip ed_clipped
+zip ed2009_ocean.zip ed2009_ocean.*
+mv ed2009_ocean.zip ~/Dropbox/Public/&lt;/pre&gt;
+&lt;p&gt;No more districts in oceans!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://blog.opengeo.org/wp-content/uploads/2012/11/after.png&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-4334&quot; height=&quot;311&quot; src=&quot;http://blog.opengeo.org/wp-content/uploads/2012/11/after.png&quot; title=&quot;After&quot; width=&quot;516&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And the faeries were happy, and &lt;a href=&quot;https://dl.dropbox.com/u/1184727/ed2009_ocean.zip&quot;&gt;uploaded their polygons&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; And the lamentations ended, and the faeries also rejoiced.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/chadskelton/status/269598610428162048&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-4330&quot; height=&quot;89&quot; src=&quot;http://blog.opengeo.org/wp-content/uploads/2012/11/screenshot_04.png&quot; title=&quot;Skelton Good&quot; width=&quot;298&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Sat, 17 Nov 2012 00:24:29 +0000</pubDate>
+</item>
+<item>
+	<title>BostonGIS Blog: PostGIS day flash cards 2.1 early celebration</title>
+	<guid isPermaLink="false">http://www.bostongis.com/blog/index.php?/archives/204-guid.html</guid>
+	<link>http://www.bostongis.com/blog/index.php?/archives/204-PostGIS-day-flash-cards-2.1-early-celebration.html</link>
+	<description>&lt;p&gt;My mental clock is on a 36-48 hour cycle, so it's still Post GIS day for me.  Well it's always Post GIS day technically except when it's GIS day. To celebrate the new year, I've updated the Flash cards.&lt;/p&gt;
+
+&lt;p&gt;You can find them &lt;a href=&quot;http://www.postgis.us/page_post_gis_day_2012&quot;&gt;PostGIS Day 2012 Flash / Playing Cards&lt;/a&gt;.  HINT: The functions with superscript 1 or 2 are new or changed in upcoming 2.1 release and there seem to be a lot of 1s and 2s around the raster functions.&lt;/p&gt;</description>
+	<pubDate>Fri, 16 Nov 2012 22:36:00 +0000</pubDate>
+	<author>nospam@example.com (Regina Obe)</author>
+</item>
+<item>
+	<title>AnyGeo: Spatial Media Friday Roundup of GeoTech Articles</title>
+	<guid isPermaLink="false">http://blog.gisuser.com/?p=12067</guid>
+	<link>http://blog.gisuser.com/2012/11/16/spatial-media-friday-roundup-of-geotech-articles-2/</link>
+	<description>Our company, SpatialMedia, operates several publications and resources, all touching on some aspect of geo technology. The following are a sampling or recent articles and posts of interest  from the Spatial Media properties… enjoy! Laser Scanning the Cliffs of Moher … &lt;a href=&quot;http://blog.gisuser.com/2012/11/16/spatial-media-friday-roundup-of-geotech-articles-2/&quot;&gt;Continue reading &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;</description>
+	<pubDate>Fri, 16 Nov 2012 22:34:19 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

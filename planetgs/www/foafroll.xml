@@ -1,0 +1,2282 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rss="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <foaf:Group>
+    <foaf:name>James Fee</foaf:name>
+    <foaf:homepage></foaf:homepage>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Brain Off</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://brainoff.com/weblog">
+            <dc:title>Brain Off</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://brainoff.com/weblog/feed/atom"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Geointerpolations</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://tylerickson.blogspot.com/">
+            <dc:title>Geointerpolations</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/5593558244533031476/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>LiDAR News</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.lidarnews.com">
+            <dc:title>LiDAR News</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/InTheScan"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>All Points Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://apb.directionsmag.com/">
+            <dc:title>All Points Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/allpointsblog-directions-magazine"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>bbbox.me</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://bbox.me/blog">
+            <dc:title>bbox.me</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://bbox.me/blog/?feed=rss2"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>The ENTCHEV GIS Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.entchev.com">
+            <dc:title>The ENTCHEV GIS Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.entchev.com/atom.aspx"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Paul Ramsey</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.cleverelephant.ca/">
+            <dc:title>Paul Ramsey</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/14903426/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Dylan's Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://casoilresource.lawr.ucdavis.edu/drupal/blog/2">
+            <dc:title>dylan's blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://casoilresource.lawr.ucdavis.edu/drupal/blog/2/feed"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>AnyGeo</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.gisuser.com">
+            <dc:title>AnyGeo - GIS, Maps, Mobile and Social Location Technology</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.gisuser.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>'sproke</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://sproke.blogspot.com/">
+            <dc:title>'sproke</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/3812785271700903620/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>It's All About Data</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.safe.com">
+            <dc:title>It's All About Data</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/ItsAllAboutData"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>The Spatial Miscellany</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://gisconsultancy.com/blog">
+            <dc:title>Spatial Miscellany</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/SpatialMiscellany"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>gvSIG Mobile</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://gvsigmobileonopenmoko.wordpress.com">
+            <dc:title>free as mobile gis can be :: gvsig mobile on linux</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://gvsigmobileonopenmoko.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>EVS-Islands</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.evs-islands.com/">
+            <dc:title>EVS-Islands</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/feedburner/GGji"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Spatial Ed</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blogs.msdn.com/b/edkatibah/">
+            <dc:title>Spatial Ed</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blogs.msdn.com/b/edkatibah/rss.aspx"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>geothought</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geothought.blogspot.com/">
+            <dc:title>geothought</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/8470995059384390571/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Letters from the SAL</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://letters-sal.blogspot.com/">
+            <dc:title>Letters from the SAL</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/1631047127449001675/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>NSGIC News</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://news.nsgic.org/">
+            <dc:title>NSGIC News</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/TheNsgicBlog"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Geospatial Science and Technology Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geodatapolicy.wordpress.com">
+            <dc:title>GEODATA POLICY</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://geodatapolicy.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>geobloggers</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.geobloggers.com">
+            <dc:title>ゴルフ用品の通販について</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/geobloggers"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>oegeo</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://oegeo.wordpress.com">
+            <dc:title>oegeo</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://oegeo.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>What's new about OTB?</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.orfeo-toolbox.org">
+            <dc:title>What's new about OTB?</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.orfeo-toolbox.org/feed"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Arnulf Christl</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://arnulf.us/sevendipity/">
+            <dc:title>Seven of Nine : Resistence is Futile</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://arnulf.us/sevendipity/index.php?/feeds/index.rss2"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Steve's Little World</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://thesteve0.wordpress.com">
+            <dc:title>Steve's Little world</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://thesteve0.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GIS for Archeology and CRM</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.gisarch.com">
+            <dc:title>GIS for Archaeology and CRM</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.gisarch.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>thematic mapping blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.thematicmapping.org/">
+            <dc:title>thematic mapping blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/thematicmapping"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Mapping Each Unit of Earth: Challenges &amp; Solutions</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://sushantakabi.blogspot.com/">
+            <dc:title>Mapping Each Unit of Earth: Challenges &amp; Solutions</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/4898501845117379929/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Faunalia</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.faunalia.com/blog">
+            <dc:title>Faunalia GIS Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.faunalia.com/blog.xml"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Technical Ramblings</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://crschmidt.net/blog">
+            <dc:title>Technical Ramblings</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://crschmidt.net/blog/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Ecostudies</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://pvanb.wordpress.com">
+            <dc:title>Ecostudies</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://pvanb.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Fantom Planet</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://fantomplanet.wordpress.com">
+            <dc:title>FANTOM PLANET</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://fantomplanet.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Surveying, Mapping and GIS</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://surveying-mapping-gis.blogspot.com/">
+            <dc:title>Surveying, Mapping and GIS</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/18725424/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>m.k.ge•o•mat•ics |ˌjēəˈmatiks|</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.mkgeomatics.com/wordpress">
+            <dc:title>m.k.ge•o•mat•ics |ˌjēəˈmatiks|</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.mkgeomatics.com/wordpress/?feed=rss2"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>MapBrief</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://mapbrief.com">
+            <dc:title>MapBrief™</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://mapbrief.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Geo-Elektrika</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://gis-elektrika.blogspot.com/">
+            <dc:title>Geo-Elektrika</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/7324700305655282242/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>geo.geek.nz</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geo.geek.nz/">
+            <dc:title>Jithen (J) Singh {An Esri Dude}</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/mandown"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Shoutis</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.shoutis.org/">
+            <dc:title>blog.shoutis.org</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/8454280407750835604/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>WeoBlog at WeoGeo.com</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="">
+            <dc:title></dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about=""/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Spatial Knowledge</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.spatialknowledge.eu">
+            <dc:title>Spatial Knowledge</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.spatialknowledge.eu/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>AmericaView Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.americaview.org/">
+            <dc:title>AmericaView Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/AmericaviewBlog"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Thining in GIS</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.paolocorti.net">
+            <dc:title>Thinking in GIS</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.paolocorti.net/feed/index.xml"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>new jersey geographer</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://njgeo.org">
+            <dc:title>new jersey geographer</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://njgeo.org/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>ACuriousAnimal</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://acuriousanimal.com/blog">
+            <dc:title>ACuriousAnimal</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/ACuriousAnimal"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GeoSolutions' Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geo-solutions.blogspot.com/">
+            <dc:title>GeoSolutions' Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/5176900881057973693/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>tommy's scratchpad</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.kralidis.ca/blog">
+            <dc:title>tommy's scratchpad</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.kralidis.ca/blog/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GeoIQ Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.geoiq.com">
+            <dc:title>GeoIQ Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/fortiusone"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Kelso's Corner</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://kelsocartography.com/blog">
+            <dc:title>Kelso's Corner</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/KelsosCorner"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Mostly a GIS Guy</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://jamiepopkin.blogspot.com/">
+            <dc:title>Mostly a GIS Guy</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/4703254919229683389/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>RexHansen.com</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://rexdotnet.blogspot.com/">
+            <dc:title>RexHansen.com</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/3306209722829837644/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>It is what it is</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.palladiumconsulting.com/blog/sebastian/">
+            <dc:title>It is what it is</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.palladiumconsulting.com/blog/sebastian/rss.xml"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GeoExt</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geoext.blogspot.com/">
+            <dc:title>GeoExt</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/7395816038739857378/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Jeff Hobbs' Intergraph and GIS Technology Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://jeffhobbs.net">
+            <dc:title>Jeff Hobbs' Intergraph and GIS Technology Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/JeffHobbsIntergraphAndGisTechnologyBlog"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Location Intelligence Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://li.pbbiblogs.com">
+            <dc:title>Location Intelligence Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://li.pbbiblogs.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>geographika</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geographika.co.uk">
+            <dc:title>geographika</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/geographika_feed"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Socium</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://sociumcloud.blogspot.com/">
+            <dc:title>Socium</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/3000221427354223389/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Geopdf</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geopdf.blogspot.com/">
+            <dc:title>GeoPDF</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/Geopdf"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>El blog del SEXTANTE</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://sextantegis.blogspot.com/">
+            <dc:title>El blog del SEXTANTE</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/35557342/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Cameron Shorter</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://cameronshorter.blogspot.com/search/label/osgeo">
+            <dc:title>Cameron Shorter</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/24623504/posts/default/-/osgeo"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>The Field Guide</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://field-guide.blogspot.com/">
+            <dc:title>The Field Guide</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/1883623975517863992/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Arc2Earth</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.arc2earth.com">
+            <dc:title>Arc2Earth</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.arc2earth.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>4253</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://epsg4253.wordpress.com">
+            <dc:title>4253 » geospatial</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://epsg4253.wordpress.com/tag/geospatial/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Walt Eis</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://walteis.wordpress.com">
+            <dc:title>Walt Eis</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://walteis.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Bing Maps Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.bing.com/community/Site_Blogs/b/maps/default.aspx">
+            <dc:title>Bing Maps Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.bing.com:80/community/site_blogs/b/maps/rss.aspx"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>OpenGeo</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.opengeo.org">
+            <dc:title>OpenGeo</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.opengeo.org/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GeoJason</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geojason.info/">
+            <dc:title>GeoJason</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://geojason.info/atom.xml"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>LeadDog BLog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://goleaddog.com">
+            <dc:title>LeadDog Consulting</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://goleaddog.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Spatial Galaxy</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://spatialgalaxy.net//">
+            <dc:title>Spatial Galaxy</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://spatialgalaxy.net//atom.xml"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>The Easy GIS Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://evarigisconsulting.wordpress.com">
+            <dc:title>The Easy GIS Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://evarigisconsulting.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Brian Noyle</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.briannoyle.com">
+            <dc:title>blog.briannoyle.com</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.briannoyle.com/rss.xml"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Spatially Adjusted</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://spatiallyadjusted.com/">
+            <dc:title>Spatially Adjusted</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://spatiallyadjusted.com/atom.xml"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Nathan's QGIS and GIS Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://woostuff.wordpress.com">
+            <dc:title>Nathans QGIS and GIS blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://woostuff.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>sharpgis</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.sharpgis.net/">
+            <dc:title>SharpGIS</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.sharpgis.net/syndication.axd"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GeoScript</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geoscriptblog.blogspot.com/">
+            <dc:title>GeoScript</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/8042770441502149016/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Using OpenData</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://usingopendata.wordpress.com">
+            <dc:title>Using OpenData</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://usingopendata.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Boston GIS Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.bostongis.com/blog/">
+            <dc:title>BostonGIS Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.bostongis.com/blog/index.php?/feeds/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Making Maps: DiY Cartography</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://makingmaps.net">
+            <dc:title>Making Maps: DIY Cartography</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://makingmaps.net/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>knowwhere GIScussions</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://knowwhereconsulting.co.uk/giscussions-gi-is-worthless/">
+            <dc:title>Comments on: GIScussions: GI is worthless?</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://knowwhereconsulting.co.uk/giscussions-gi-is-worthless/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Mapoholic</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://mapoholic.wordpress.com">
+            <dc:title>Mapoholic</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://mapoholic.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Cameron Shorter</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://cameronshorter.blogspot.com/">
+            <dc:title>Cameron Shorter</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/24623504/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>MapFish</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://mapfishblog.blogspot.com/">
+            <dc:title>MapFish</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/2677774430457039310/comments/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>geomaticblog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geomaticblog.net">
+            <dc:title>geomaticblog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://geomaticblog.net/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Geomati.co</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geomati.co">
+            <dc:title>geomati.co » Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://geomati.co/blog/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Bill Thorp</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://billthorp.wordpress.com">
+            <dc:title>billthorp.wordpress.com</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://billthorp.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Sean Gillies Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://sgillies.net/blog/">
+            <dc:title>Sean Gillies Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://sgillies.net/blog/recent.atom"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>TargetGIS</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://targetgis.wordpress.com">
+            <dc:title>TargetGIS</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://targetgis.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>openaddresses</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://openaddresses.blogspot.com/">
+            <dc:title>openaddresses</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/5860010330281125929/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Programming and the GeoWeb</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.jamesrichards.com/">
+            <dc:title>Programming and the GeoWeb</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/jamesrichards"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GIS Lounge</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://gislounge.com">
+            <dc:title>GIS Lounge</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://gislounge.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Geoweb Guru</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.geowebguru.com/component/content/frontpage">
+            <dc:title>Geoweb Guru</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.geowebguru.com/?format=feed&amp;type=rss"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Into the Pudding</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://cholmes.wordpress.com">
+            <dc:title>Into The Pudding</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://cholmes.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Azavea Atlas</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.azavea.com/blogs/atlas">
+            <dc:title>Azavea Atlas</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.azavea.com/blogs/atlas/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Spatial Intelligence</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://spatialintel.blogspot.com/">
+            <dc:title>Spatial Intelligence</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/blogspot/wTPS"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>got geoint?</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.gotgeoint.com">
+            <dc:title>got geoint?</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/GotGeoint"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>ROK Technologies Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.roktech.net/">
+            <dc:title>ROK Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.roktech.net/RSSRetrieve.aspx?ID=5881&amp;Type=RSS20"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>mapz: a gis librarian</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://mapzlibrarian.blogspot.com/">
+            <dc:title>mapz: a gis librarian</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/mapz"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Web Map Design</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://webmapdesign.blogspot.com/">
+            <dc:title>Web Map Design</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/WebMapDesign"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Geospatial Buzz</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.geospatialbuzz.com">
+            <dc:title>Geospatial Buzz</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.geospatialbuzz.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Directions Magazine</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.directionsmag.com/">
+            <dc:title>Directions Magazine - Top Stories</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/directions-magazine-top-stories"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Geo Gears, Nuts &amp; Bolts</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://dmorissette.blogspot.com/search/label/English">
+            <dc:title>Geo Gears, Nuts &amp; Bolts</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/808053412198379231/posts/default/-/English"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>OpenGeoData</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://opengeodata.org">
+            <dc:title>OpenGeoData</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/Opengeodata"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GeoIQ Developer</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://developer.geoiq.com">
+            <dc:title>GeoIQ Developer</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://developer.geoiq.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>VerySpatial</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://veryspatial.com">
+            <dc:title>VerySpatial</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://veryspatial.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Geospatial Elucubrations</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geospatialelucubrations.blogspot.com/">
+            <dc:title>Geospatial Elucubrations</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/3548694469101129309/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Urban Mapping Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.urbanmapping.com">
+            <dc:title>Urban Mapping Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.urbanmapping.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Robin's Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.rtwilson.com">
+            <dc:title>Robin's Blog » GIS</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.rtwilson.com/category/academic/gis/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>No sólo software</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://nosolosoftware.com">
+            <dc:title>No sólo software » Sistemas de Información Geográfica</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://nosolosoftware.com/tag/sistemas-de-informacion-geografica/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>geoMusings</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.geomusings.com">
+            <dc:title>geoMusings</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.geomusings.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>JGrass Tech Tips</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://jgrasstechtips.blogspot.com/">
+            <dc:title>JGrass Tech Tips</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/5970315134912558864/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Spatialytics.org</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.spatialytics.org">
+            <dc:title>Spatialytics.org</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.spatialytics.org/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>The Fudicial Mark</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.fiducialmark.com">
+            <dc:title>The Fiducial Mark » Geospatial</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/TheFiducialMarkGeospatial"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>The Memory Leak</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://ambergis.wordpress.com">
+            <dc:title>The Memory Leak</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://ambergis.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GIS Nuts</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://gisnuts.com/terra/blog">
+            <dc:title>GISNuts Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://gisnuts.com/terra/blog/feed"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>From High Above</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://aerometrex.com.au/blog">
+            <dc:title>From High Above</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://aerometrex.com.au/blog/?feed=rss2"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Zekiah Technologies Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://zekiah.com/index.php?q=blog">
+            <dc:title>Zekiah Technologies Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://zekiah.com/index.php?q=blogfeed"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Random Nodes</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.jasonbirch.com/nodes">
+            <dc:title>Random Nodes</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.jasonbirch.com/nodes/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Linfiniti Geo Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://linfiniti.com">
+            <dc:title>Linfiniti Geo Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://linfiniti.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>MapLoser</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.maploser.com">
+            <dc:title>Kate Chapman - Maploser?</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.maploser.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Spatial Explorations</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.spatialexplorations.net/blog/">
+            <dc:title>Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.spatialexplorations.net/blog/atom.xml"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>torsten rahn's blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blogs.kde.org/blog/551">
+            <dc:title>torsten rahn's blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blogs.kde.org/blog/551/feed"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Martin Davis</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://lin-ear-th-inking.blogspot.com/">
+            <dc:title>Lin.ear th.inking</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/2420860529344694449/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Geographic Information Systems Blog (GIS Stack Exchange)</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://gis.blogoverflow.com">
+            <dc:title>Stack Exchange GIS Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://gis.blogoverflow.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Andrew Zolnai Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.zolnai.ca/">
+            <dc:title>ANDREW ZOLNAI BLOG</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/AndrewZolnaiBlog"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>The Sandpit</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://kiwigis.blogspot.com/">
+            <dc:title>The Sandpit</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/8656429443005102101/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>geops.de</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.geops.de/blog/spatial/feed">
+            <dc:title></dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.geops.de/blog/spatial/feed"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>geo-fi</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geofi.wordpress.com">
+            <dc:title>geo-fi</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://geofi.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GeoDestinations</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.geodecisions.com/Blog/tabid/267/BlogId/1/Default.aspx">
+            <dc:title>GeoDestinations</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.geodecisions.com/Blog/tabid/267/rssid/1/Default.aspx"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>My Georamblings...</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://georamblings.com">
+            <dc:title>My Georamblings...</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://georamblings.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>MapDotNet Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.mapdotnet.com/">
+            <dc:title>MapDotNet Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.mapdotnet.com/index.php?option=com_lyftenbloggie&amp;task=feed&amp;type=rss&amp;Itemid=37"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>thinkwhere</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://thinkwhere.wordpress.com">
+            <dc:title>thinkwhere</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://thinkwhere.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Jody Garnett</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://how2map.blogspot.com/">
+            <dc:title>How 2 Map</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://how2map.blogspot.com/feeds/posts/default?alt=rss"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Mapperz - The Mapping News Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://mapperz.blogspot.com/">
+            <dc:title>Mapperz - The Mapping News Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/mapperz"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Ed Parsons</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.edparsons.com">
+            <dc:title>edparsons.com</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.edparsons.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GIS in XML</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.web-maps.com/gisblog">
+            <dc:title>GIS in XML</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.web-maps.com/gisblog/?feed=rss2"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Fuzzy Tolerance</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://fuzzytolerance.info">
+            <dc:title>Fuzzy Tolerance</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/FuzzyTolerance"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>eSpatial Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="https://www.espatial.com">
+            <dc:title>eSpatial Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/espatial/RSS"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>lost in spatial</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.lostinspatial.com">
+            <dc:title>lost in spatial</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/LostInSpatial"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Esri: Spatial Roundtable</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.spatialroundtable.com/">
+            <dc:title>Spatial Roundtable</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.esri.com/SpatialRoundtable"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Bing Maps for Government</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.bing.com/community/Site_Blogs/b/govmaps/default.aspx">
+            <dc:title>Bing Maps For Government</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.bing.com:80/community/site_blogs/b/govmaps/rss.aspx"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Learon Dalby</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://learondalby.blogspot.com/">
+            <dc:title>Learon Dalby</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/4699301114426738490/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>geoDribble</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geodribble.blogspot.com/">
+            <dc:title>geoDribble</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/1854228541268782518/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Dave Bouwman</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.davebouwman.com">
+            <dc:title>blog.davebouwman.com</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.davebouwman.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GeoServer Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.geoserver.org">
+            <dc:title>GeoServer Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.geoserver.org/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Frank's Geo-Geeking</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://fwarmerdam.blogspot.com/">
+            <dc:title>Frank's Geo-Geeking</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/1840643319439081135/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Vishful thinking...</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://viswaug.wordpress.com">
+            <dc:title>Vishful thinking...</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://viswaug.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Spatial Law and Policy</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://spatiallaw.blogspot.com/">
+            <dc:title>Spatial Law and Policy</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/168778176880634797/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Markus Neteler</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://gfoss.blogspot.com/">
+            <dc:title>GFOSS - Free Software GIS at your fingertips</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/34897323/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>%scratchworkspace%</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://posdgis.wordpress.com">
+            <dc:title>%scratchworkspace%</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://posdgis.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Free and Open Source GIS Ramblings</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://underdark.wordpress.com">
+            <dc:title>Free and Open Source GIS Ramblings</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://underdark.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>My Corner of the Web</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://bob-roberts.net">
+            <dc:title>My Corner of the Web</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://bob-roberts.net/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GIS Maps and Musings</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://gismaps.wordpress.com">
+            <dc:title>GIS Maps and Musings</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://gismaps.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Don Meltz</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://donmeltz.com/blog">
+            <dc:title>blog.donmeltz.com</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://donmeltz.com/blog/index.php/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>GIS Cloud</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.giscloud.com">
+            <dc:title>GIS Cloud</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.giscloud.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Open Source Computing and GIS in the UK</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.archaeogeek.com/">
+            <dc:title>Open Source Computing and GIS in the UK</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/ComputingGisAndArchaeologyInTheUk"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>SouthernTip</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://grimmeister.wordpress.com">
+            <dc:title>SouthernTip</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://grimmeister.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>PerryGeo</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.perrygeo.net">
+            <dc:title>Perrygeo</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.perrygeo.net/atom.xml"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>The Earth is Square</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.earthissquare.com">
+            <dc:title>The Earth Is Square</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/TheEarthIsSquare"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>The Big Blue Thread</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.epa.gov/bigbluethread">
+            <dc:title>Big Blue Thread</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.epa.gov/bigbluethread/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>JournaliasmGIS</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.journalismgis.com">
+            <dc:title></dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.journalismgis.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Ogle Earth</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://ogleearth.com">
+            <dc:title>Ogle Earth</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.ogleearth.com/ogleearth"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>The Swordpress</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://thes.wordpress.com">
+            <dc:title>The Swordpress</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://thes.wordpress.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>geopublishing.org</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://en.geopublishing.org">
+            <dc:title>geopublishing.org</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://en.geopublishing.org/rss.xml"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>The Map Guy(de)</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://themapguyde.blogspot.com/">
+            <dc:title>The Map Guy(de)</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/1951542926024108564/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>izwe</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://izwe.blogspot.com/">
+            <dc:title>izwe</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/izwe"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Mateusz Loskot</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://mateusz.loskot.net">
+            <dc:title>Mateusz Loskot » Page not found</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://mateusz.loskot.net/category/gis/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Let's Push Things Forward</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://lptf.blogspot.com/">
+            <dc:title>Let's Push Things Forward</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/15324911/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Geo-preneur</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.burhum.com/">
+            <dc:title>Geo-preneur</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.burhum.com/rss"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Between the Poles</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geospatial.blogs.com/geospatial/">
+            <dc:title>Between the Poles</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://feeds.feedburner.com/typepad/zeissg/geospatial"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Galdos Systems</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.galdosinc.com">
+            <dc:title>Galdos Systems Inc.</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.galdosinc.com/feed"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Greetings from Manasquan, NJ</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://geosquan.blogspot.com/">
+            <dc:title>Greetings from Manasquan, NJ</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/7925239108044178055/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>BostonGIS Blog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.bostongis.com/blog/">
+            <dc:title>BostonGIS Blog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.bostongis.com/blog/index.php?/feeds/index.rss2"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>map butcher</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://mapbutcher.com/blog">
+            <dc:title>map butcher</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://mapbutcher.com/blog/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Azavea Labs</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://www.azavea.com/blogs/labs">
+            <dc:title>Azavea Labs</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.azavea.com/blogs/labs/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>How 2 Map</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://how2map.blogspot.com/">
+            <dc:title>How 2 Map</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/4367289903826616184/posts/default"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Spatiallity</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://spatialityblog.com">
+            <dc:title>Spatiality</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://spatialityblog.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>DeLorme Professional Weblog</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://blog.delorme.com">
+            <dc:title>The DeLorme Weblog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://blog.delorme.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+  </foaf:Group>
+</rdf:RDF>
