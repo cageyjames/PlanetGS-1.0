@@ -49,9 +49,6 @@
       <xsl:text>&#10;&#10;</xsl:text>
       <body>
         <xsl:text>&#10;</xsl:text>
-        <div>
-<a href="http://www.spatiallyadjusted.com/planetgs/"><img src="http://images.spatiallyadjusted.com/PlanetGS-Appeal.jpg"></a>
-</div>  
         <h1><xsl:value-of select="atom:title"/></h1>
 
         <xsl:text>&#10;&#10;</xsl:text>
